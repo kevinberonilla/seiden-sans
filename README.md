@@ -1,2 +1,2 @@
-# seiden-sans
-An open source typeface created with BirdFont
+# Seiden Sans
+An open source sans serif typeface by Kevin Beronilla (created with BirdFont)

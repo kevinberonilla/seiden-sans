@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 56 102" style="enable-background:new 0 0 56 102;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#231F20;}
+</style>
+<g id="Guides">
+	<text transform="matrix(1 0 0 1 64.1663 -11)" style="font-family:'Helvetica-Light'; font-size:2px;">Ascender</text>
+	<text transform="matrix(1 0 0 1 64.1663 -7)" style="font-family:'Helvetica-Light'; font-size:2px;">Cap-Height</text>
+	<text transform="matrix(1 0 0 1 64.1663 15)" style="font-family:'Helvetica-Light'; font-size:2px;">x-Height</text>
+	<text transform="matrix(1 0 0 1 64.1663 71)" style="font-family:'Helvetica-Light'; font-size:2px;">Baseline</text>
+	<text transform="matrix(1 0 0 1 64.1663 91)" style="font-family:'Helvetica-Light'; font-size:2px;">Descender</text>
+</g>
+<g id="glyph_a" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+	<sodipodi:namedview>
+		<sodipodi:guide  id="baseline" orientation="0,1" position="0,30"></sodipodi:guide>
+	</sodipodi:namedview>
+	<path class="st0" d="M49.5,31.8c4.2-3.6,5.9-8.2,6.3-12.4c0.7-6.7-1-12.5-5-17C46-2.9,37.9-5.9,28-5.9c-12.3,0-22.4,6-27.1,16.1
+		l10.9,5C15.6,7,24.4,6.1,28,6.1c6.3,0,11.4,1.6,13.9,4.4c1.7,1.9,2.3,4.4,2,7.7c-0.2,2.1-0.9,8.4-18.8,8.4v12
+		c21.6,0,21.6,7.4,21.6,11C46.7,59.9,33.6,61,28,61c-13.5,0-18.1-8.6-18.3-9l-5.4,2.7l-5.4,2.6C-0.8,58,6.7,73,28,73
+		c9.2,0,16.6-2.1,22-6.1c5.6-4.2,8.7-10.3,8.7-17.4C58.7,41.5,55.6,35.7,49.5,31.8z"/>
+</g>
+</svg>
