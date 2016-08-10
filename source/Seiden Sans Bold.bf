@@ -2,19 +2,19 @@
 <font>
 <format>2.2</format>
 
-<postscript_name>Typeface</postscript_name>
-<name>Typeface</name>
-<subfamily>Regular</subfamily>
-<bold>false</bold>
+<postscript_name>Seiden Sans</postscript_name>
+<name>Seiden Sans</name>
+<subfamily>Bold</subfamily>
+<bold>true</bold>
 <italic>false</italic>
-<full_name>Typeface</full_name>
-<unique_identifier>Typeface</unique_identifier>
+<full_name>Seiden Sans Bold</full_name>
+<unique_identifier>Seiden Sans Bold</unique_identifier>
 <version>Version 1.0</version>
 <description></description>
 <copyright>SIL Open Font License</copyright>
 <license>SIL Open Font License</license>
 <license_url>http://scripts.sil.org/OFL</license_url>
-<weight>400</weight>
+<weight>500</weight>
 <units_per_em>1024</units_per_em>
 <trademark></trademark>
 <manufacturer></manufacturer>
@@ -172,6 +172,10 @@
 <grid width="1.0000"/>
 <grid width="1.0000"/>
 <grid width="2.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
 <grid width="4.0000"/>
 <grid width="1.0000"/>
 <grid width="2.0000"/>
@@ -187,6 +191,51 @@
 <grid width="1.0000"/>
 <grid width="1.0000"/>
 <grid width="2.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
 <grid width="4.0000"/>
 <grid width="1.0000"/>
 <grid width="2.0000"/>
@@ -200,7 +249,6 @@
 <grid width="2.0000"/>
 <grid width="4.0000"/>
 <grid width="1.0000"/>
-<grid width="1.0000"/>
 <grid width="2.0000"/>
 <grid width="4.0000"/>
 <grid width="1.0000"/>
@@ -211,11 +259,23 @@
 <grid width="4.0000"/>
 <grid width="1.0000"/>
 <grid width="2.0000"/>
+<grid width="1.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
 <grid width="4.0000"/>
 <grid width="1.0000"/>
 <grid width="2.0000"/>
 <grid width="4.0000"/>
 <grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
 <grid width="2.0000"/>
 <grid width="4.0000"/>
 <grid width="1.0000"/>
@@ -427,8 +487,8 @@
 	<selected id="0"/>
 	<glyph id="0" left="-20" right="33">
 		<layer name= "Layer" visible="true">
-			<path data="S -15.0000000000,10.0000000000 L 15.0000000000,10.0000000000 L 15.0000000000,62.0000000000 M -15.0000000000,62.0000000000 M -15.0000000000,10.0000000000" />
-			<path data="S -20.0000000000,67.0000000000 L 20.0000000000,67.0000000000 L 20.0000000000,5.0000000000 M -20.0000000000,5.0000000000 M -20.0000000000,67.0000000000" />
+			<path data="S -15.0000000000,10.0000000000 L 15.0000000000,10.0000000000 L 15.0000000000,62.0000000000 L -15.0000000000,62.0000000000 L -15.0000000000,10.0000000000" />
+			<path data="S -20.0000000000,67.0000000000 L 20.0000000000,67.0000000000 L 20.0000000000,5.0000000000 L -20.0000000000,5.0000000000 L -20.0000000000,67.0000000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -491,19 +551,49 @@
 
 <collection unicode="U+35">
 	<selected id="0"/>
-	<glyph id="0" left="-34.309774436090208" right="25.870676691729329">
+	<glyph id="0" left="-37.279329608938554" right="22.469273743016743">
 		<layer name= "Layer" visible="true">
-			<path data="B 25.5338345865,24.5000000000 C 25.5338345865,12.1000000000 17.4338345865,-1.1000000000 -5.1661654135,-1.1000000000 C -26.4661654135,-1.1000000000 -33.9661654135,13.9000000000 -34.2661654135,14.6000000000 C -34.2661754135,14.5999900000 -30.6661654135,16.3333333333 -28.8661654135,17.2000000000 C -28.8661754135,17.1999900000 -28.8661654135,17.2000000000 -23.4661654135,19.9000000000 C -23.2661654135,19.5000000000 -18.6661654135,10.9000000000 -5.1661654135,10.9000000000 C 3.3338345865,10.9000000000 13.5338345865,13.3000000000 13.4338345865,24.6000000000 C 13.4338345865,29.3000000000 11.1338345865,32.9000000000 6.6338345865,35.4000000000 C -0.3661654135,39.2000000000 -10.3661654135,38.8000000000 -17.2661654135,34.4000000000 C -17.2661754135,34.3999900000 -25.1328320802,37.8000000000 -29.0661654135,39.5000000000 C -29.0661754135,39.4999900000 -27.9994987469,64.5000000000 -27.4661654135,77.0000000000 C -27.4661754135,76.9999900000 -23.4661654135,77.0000000000 -21.4661654135,77.0000000000 C -21.4661754135,76.9999900000 -21.3328320802,77.0000000000 -21.2661654135,77.0000000000 C -21.2661754135,76.9999900000 6.2671679198,77.0000000000 20.0338345865,77.0000000000 C 20.0338245865,76.9999900000 20.0338345865,69.0000000000 20.0338345865,65.0000000000 C 20.0338245865,64.9999900000 -4.0328320802,65.0000000000 -16.0661654135,65.0000000000 C -16.0661754135,64.9999900000 -16.0661654135,65.0000000000 -16.7661654135,47.8000000000 C -7.2661654135,51.2000000000 3.8338345865,50.6000000000 12.4338345865,45.9000000000 C 20.7338345865,41.4000000000 25.5338345865,33.6000000000 25.5338345865,24.5000000000" />
+			<path data="B 22.4902255639,24.4000000000 C 22.0902255639,8.7000000000 10.3902255639,-1.1000000000 -8.2097744361,-1.1000000000 C -29.5097744361,-1.1000000000 -37.0097744361,13.9000000000 -37.3097744361,14.6000000000 C -37.3097844361,14.5999900000 -33.7097744361,16.3333333333 -31.9097744361,17.2000000000 C -31.9097844361,17.1999900000 -31.9097744361,17.2000000000 -26.5097744361,19.9000000000 C -26.3097744361,19.5000000000 -21.7097744361,10.9000000000 -8.2097744361,10.9000000000 C 3.9902255639,10.9000000000 10.2902255639,15.6000000000 10.3902255639,24.7000000000 C 10.4902255639,29.3000000000 8.5902255639,32.8000000000 4.7902255639,35.1000000000 C -1.7097744361,39.0000000000 -12.4097744361,38.7000000000 -20.3097744361,34.4000000000 C -20.3097844361,34.3999900000 -28.1764411028,37.8000000000 -32.1097744361,39.5000000000 C -32.1097844361,39.4999900000 -31.0431077694,64.5666666667 -30.5097744361,77.1000000000 C -30.5097844361,77.0999900000 -26.5097744361,77.1000000000 -24.5097744361,77.1000000000 C -24.5097844361,77.0999900000 -24.3764411028,77.1000000000 -24.3097744361,77.1000000000 C -24.3097844361,77.0999900000 3.2902255639,77.1000000000 17.0902255639,77.1000000000 C 17.0902155639,77.0999900000 17.0902255639,69.1000000000 17.0902255639,65.1000000000 C 17.0902155639,65.0999900000 -6.9764411028,65.1000000000 -19.0097744361,65.1000000000 C -19.0097844361,65.0999900000 -19.0097744361,65.1000000000 -19.7097744361,47.6000000000 C -9.3097744361,51.2000000000 2.4902255639,50.5000000000 10.9902255639,45.4000000000 C 18.5902255639,40.8000000000 22.6902255639,33.4000000000 22.4902255639,24.4000000000" />
 		</layer>
 	</glyph>
 </collection>
 
 <collection unicode="U+36">
 	<selected id="0"/>
-	<glyph id="0" left="-30.851127819548879" right="30.712781954887248">
+	<glyph id="0" left="-34.896551724137908" right="27.805273833671407">
 		<layer name= "Layer" visible="true">
-			<path data="B 27.8488721805,24.4000000000 C 27.8488721805,9.2000000000 15.5488721805,-1.1000000000 -2.8511278195,-1.1000000000 C -20.6511278195,-1.1000000000 -32.7511278195,8.5000000000 -33.5511278195,23.1000000000 C -33.5511278195,23.4000000000 -33.5511278195,24.1000000000 -33.5511278195,24.5000000000 C -33.5511278195,24.5000000000 -33.5511278195,24.2000000000 -33.5511278195,24.3000000000 C -33.8511278195,42.6000000000 -29.8511278195,56.3000000000 -21.0511278195,65.4000000000 C -13.0511278195,73.7000000000 -1.2511278195,77.9000000000 13.9488721805,77.9000000000 C 13.9488621805,77.8999900000 13.9488721805,77.9000000000 13.9488721805,65.9000000000 C 1.9488721805,65.9000000000 -6.6511278195,63.0000000000 -12.3511278195,57.1000000000 C -14.9511278195,54.5000000000 -16.9511278195,51.1000000000 -18.4511278195,47.1000000000 C -14.0511278195,49.0000000000 -8.7511278195,50.0000000000 -2.8511278195,50.0000000000 C 15.5488721805,50.0000000000 27.8488721805,39.7000000000 27.8488721805,24.4000000000" />
-			<path data="B 15.8488721805,24.5000000000 C 15.8488721805,37.0000000000 1.5488721805,38.0000000000 -2.8511278195,38.0000000000 C -7.2511278195,38.0000000000 -21.4511278195,37.0000000000 -21.5511278195,24.6000000000 C -21.5511278195,24.5000000000 -21.5511278195,24.4000000000 -21.5511278195,24.3000000000 C -21.4511278195,14.4000000000 -11.8511278195,10.9000000000 -2.8511278195,10.9000000000 C 6.1488721805,10.9000000000 15.8488721805,14.5000000000 15.8488721805,24.5000000000" />
+			<path data="B 27.8488721805,24.4000000000 C 27.8488721805,9.2000000000 15.5488721805,-1.1000000000 -2.8511278195,-1.1000000000 C -15.5511278195,-1.1000000000 -25.4511278195,3.9000000000 -30.3511278195,11.9000000000 C -30.3511278195,12.0000000000 -30.4511278195,12.1000000000 -30.4511278195,12.2000000000 C -30.8511278195,12.9000000000 -31.2511278195,13.6000000000 -31.5511278195,14.4000000000 C -36.2511278195,24.9000000000 -36.6511278195,41.6000000000 -28.4511278195,55.9000000000 C -20.2511278195,70.1000000000 -5.5511278195,77.9000000000 12.9488721805,77.9000000000 C 12.9488621805,77.8999900000 12.9488721805,77.9000000000 12.9488721805,65.9000000000 C -5.0511278195,65.9000000000 -13.8511278195,57.2000000000 -18.0511278195,49.9000000000 C -18.6511278195,48.8000000000 -19.2511278195,47.7000000000 -19.7511278195,46.5000000000 C -15.0511278195,48.8000000000 -9.3511278195,50.0000000000 -2.8511278195,50.0000000000 C 15.5488721805,50.0000000000 27.8488721805,39.7000000000 27.8488721805,24.4000000000" />
+			<path data="B 15.8488721805,24.4000000000 C 15.8488721805,36.9000000000 1.5488721805,37.9000000000 -2.8511278195,37.9000000000 C -7.2511278195,37.9000000000 -21.5511278195,36.9000000000 -21.5511278195,24.4000000000 C -21.5511278195,14.5000000000 -11.8511278195,10.9000000000 -2.8511278195,10.9000000000 C 6.1488721805,10.9000000000 15.8488721805,14.5000000000 15.8488721805,24.4000000000" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+37">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="28">
+		<layer name= "Layer" visible="true">
+			<path data="B -19.2000000000,0.0000000000 M -5.7000000000,0.0000000000 M 28.0000000000,65.2000000000 M 28.0000000000,77.2000000000 M -26.3000000000,77.2000000000 M -26.3000000000,65.2000000000 M 14.5000000000,65.2000000000 M -19.2000000000,0.0000000000" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+38">
+	<selected id="0"/>
+	<glyph id="0" left="-30.791075050709992" right="30.791075050709878">
+		<layer name= "Layer" visible="true">
+			<path data="B 30.7000000000,24.4000000000 C 30.7000000000,9.2000000000 18.4000000000,-1.1000000000 0.0000000000,-1.1000000000 C -18.4000000000,-1.1000000000 -30.7000000000,9.2000000000 -30.7000000000,24.4000000000 C -30.7000000000,33.7000000000 -26.4000000000,41.0000000000 -19.0000000000,45.4000000000 C -22.0000000000,48.7000000000 -23.7000000000,53.1000000000 -23.7000000000,58.1000000000 C -23.7000000000,70.1000000000 -14.2000000000,78.1000000000 0.0000000000,78.1000000000 C 14.2000000000,78.1000000000 23.7000000000,70.1000000000 23.7000000000,58.1000000000 C 23.7000000000,53.0000000000 22.0000000000,48.7000000000 18.9000000000,45.3000000000 C 26.3000000000,40.8000000000 30.7000000000,33.5000000000 30.7000000000,24.4000000000" />
+			<path data="B -11.7000000000,58.1000000000 C -11.7000000000,50.7000000000 -2.7000000000,50.1000000000 0.0000000000,50.1000000000 C 2.7000000000,50.1000000000 11.7000000000,50.7000000000 11.7000000000,58.1000000000 C 11.7000000000,65.3000000000 3.5000000000,66.1000000000 0.0000000000,66.1000000000 C -3.5000000000,66.1000000000 -11.7000000000,65.3000000000 -11.7000000000,58.1000000000" />
+			<path data="B 18.7000000000,24.4000000000 C 18.7000000000,36.9000000000 4.4000000000,37.9000000000 0.0000000000,37.9000000000 C -4.4000000000,37.9000000000 -18.7000000000,36.9000000000 -18.7000000000,24.4000000000 C -18.7000000000,14.5000000000 -9.0000000000,10.9000000000 0.0000000000,10.9000000000 C 9.0000000000,10.9000000000 18.7000000000,14.5000000000 18.7000000000,24.4000000000" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+39">
+	<selected id="0"/>
+	<glyph id="0" left="-31.994413407821241" right="30.709497206703929">
+		<layer name= "Layer" visible="true">
+			<path data="B 24.3000000000,20.9000000000 C 16.1000000000,6.7000000000 1.4000000000,-1.1000000000 -17.1000000000,-1.1000000000 C -17.1000100000,-1.1000100000 -17.1000000000,-1.1000000000 -17.1000000000,10.9000000000 C 0.9000000000,10.9000000000 9.7000000000,19.6000000000 13.9000000000,26.9000000000 C 14.5000000000,28.0000000000 15.1000000000,29.1000000000 15.6000000000,30.3000000000 C 10.9000000000,28.0000000000 5.2000000000,26.8000000000 -1.3000000000,26.8000000000 C -20.0000000000,26.8000000000 -32.0000000000,36.8000000000 -32.0000000000,52.3000000000 C -32.0000000000,67.5000000000 -19.7000000000,77.8000000000 -1.3000000000,77.8000000000 C 11.4000000000,77.8000000000 21.3000000000,72.9000000000 26.1000000000,64.7000000000 C 26.1000000000,64.6000000000 26.2000000000,64.6000000000 26.2000000000,64.5000000000 C 26.6000000000,63.8000000000 27.0000000000,63.0000000000 27.3000000000,62.2000000000 C 32.1000000000,51.8000000000 32.5000000000,35.1000000000 24.3000000000,20.9000000000" />
+			<path data="B 17.4000000000,52.3000000000 C 17.4000000000,62.2000000000 7.7000000000,65.8000000000 -1.3000000000,65.8000000000 C -10.4000000000,65.8000000000 -20.0000000000,62.2000000000 -20.0000000000,52.3000000000 C -20.0000000000,39.7000000000 -5.7000000000,38.8000000000 -1.3000000000,38.8000000000 C 3.1000000000,38.8000000000 17.4000000000,39.7000000000 17.4000000000,52.3000000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -534,6 +624,16 @@
 		<layer name= "Layer" visible="true">
 			<path data="B -23.6000000000,45.1000000000 M 23.6000000000,45.1000000000 M 23.6000000000,33.1000000000 M -23.6000000000,33.1000000000 M -23.6000000000,45.1000000000" />
 			<path data="B -23.6000000000,22.9000000000 M 23.6000000000,22.9000000000 M 23.6000000000,10.9000000000 M -23.6000000000,10.9000000000 M -23.6000000000,22.9000000000" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+3f">
+	<selected id="0"/>
+	<glyph id="0" left="-26.125760649087226" right="28.924949290060852">
+		<layer name= "Layer" visible="true">
+			<path data="B 5.8909239389,0.9502525317 C 4.6281330386,-0.3125383686 2.7270324883,-1.1000000000 0.9411764706,-1.1000000000 T C -0.8446795471,-1.1000000000 -2.7457800974,-0.3125383686 -4.0085709977,0.9502525317 T C -5.2713618981,2.2130434320 -6.0588235294,4.1141439823 -6.0588235294,5.9000000000 T C -6.0588235294,7.6858560177 -5.2713618981,9.5869565680 -4.0085709977,10.8497474683 T C -2.7457800974,12.1125383686 -0.8446795471,12.9000000000 0.9411764706,12.9000000000 T C 2.7270324883,12.9000000000 4.6281330386,12.1125383686 5.8909239389,10.8497474683 T C 7.1537148392,9.5869565680 7.9411764706,7.6858560177 7.9411764706,5.9000000000 T C 7.9411764706,4.1141439823 7.1537148392,2.2130434320 5.8909239389,0.9502525317 T" />
+			<path data="B 28.7411764706,52.3000000000 C 27.9411764706,44.8000000000 23.3411764706,36.1000000000 6.9411764706,33.8000000000 C 6.9411664706,33.7999900000 6.2745098039,25.8000000000 5.9411764706,21.8000000000 C 5.9411664706,21.7999900000 -0.7254901961,21.8000000000 -4.0588235294,21.8000000000 C -4.0588335294,21.7999900000 -5.3921568627,37.4000000000 -6.0588235294,45.2000000000 C -6.0588335294,45.1999900000 -6.0588235294,45.2000000000 -1.6588235294,45.2000000000 C 15.9411764706,45.2000000000 16.6411764706,51.4000000000 16.8411764706,53.5000000000 C 17.1411764706,56.8000000000 16.5411764706,59.3000000000 14.8411764706,61.2000000000 C 12.3411764706,64.0000000000 7.2411764706,65.6000000000 0.9411764706,65.6000000000 C -2.6588235294,65.6000000000 -11.4588235294,64.7000000000 -15.2588235294,56.5000000000 C -15.2588335294,56.4999900000 -15.2588235294,56.5000000000 -26.1588235294,61.5000000000 C -21.4588235294,71.6000000000 -11.3588235294,77.6000000000 0.9411764706,77.6000000000 C 10.8411764706,77.6000000000 18.9411764706,74.6000000000 23.8411764706,69.2000000000 C 27.7411764706,64.8000000000 29.4411764706,58.9000000000 28.7411764706,52.3000000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -654,7 +754,7 @@
 	<selected id="0"/>
 	<glyph id="0" left="-60.860812425328618" right="15.640979689366759">
 		<layer name= "Layer" visible="true">
-			<path data="B 1.5279918864,77.2000000000 M -22.5720081136,39.2000000000 M -46.6720081136,77.2000000000 M -60.7720081136,77.2000000000 M -60.7720081136,0.0000000000 M -48.7720081136,0.0000000000 M -48.7720081136,58.1000000000 M -22.5720081136,16.8000000000 M 3.6279918864,58.1000000000 M 3.6279918864,0.0000000000 M 15.6279918864,0.0000000000 M 15.6279918864,77.2000000000 M 1.5279918864,77.2000000000" />
+			<path data="B 1.6162666822,77.2000000000 M -22.7837333178,33.4000000000 M -47.1837333178,77.2000000000 M -60.9837333178,77.2000000000 M -60.9837333178,0.0000000000 M -48.9837333178,0.0000000000 M -48.9837333178,55.8000000000 M -22.7837333178,8.6000000000 M 3.4162666822,55.8000000000 M 3.4162666822,0.0000000000 M 15.4162666822,0.0000000000 M 15.4162666822,77.2000000000 M 1.6162666822,77.2000000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -1094,6 +1194,7 @@
 
 
 
+<kerning left="O" right="'" hadjustment="4.0000000000" />
 <kerning left="w" right="h" hadjustment="6.0000000000" />
 <kerning left="w" right="i" hadjustment="6.0000000000" />
 <kerning left="V" right="y" hadjustment="1.0000000000" />
@@ -1123,13 +1224,14 @@
 <kerning left="o" right="k" hadjustment="8.0000000000" />
 <kerning left="F" right="o" hadjustment="-2.0000000000" />
 <kerning left="W" right="E" hadjustment="6.0000000000" />
-<kerning left="o" right="l" hadjustment="8.0000000000" />
+<kerning left="o" right="l" hadjustment="7.0000000000" />
 <kerning left="o" right="m" hadjustment="8.0000000000" />
 <kerning left="g" right="a" hadjustment="4.0000000000" />
 <kerning left="o" right="n" hadjustment="8.0000000000" />
 <kerning left="W" right="H" hadjustment="6.0000000000" />
 <kerning left="g" right="b" hadjustment="9.0000000000" />
 <kerning left="o" right="o" hadjustment="6.0000000000" />
+<kerning left="?" right="!" hadjustment="6.0000000000" />
 <kerning left="g" right="c" hadjustment="5.0000000000" />
 <kerning left="o" right="p" hadjustment="8.0000000000" />
 <kerning left="F" right="u" hadjustment="2.0000000000" />
@@ -1147,8 +1249,9 @@
 <kerning left="O" right="B" hadjustment="8.0000000000" />
 <kerning left="W" right="O" hadjustment="4.0000000000" />
 <kerning left="g" right="i" hadjustment="9.0000000000" />
-<kerning left="o" right="v" hadjustment="2.0000000000" />
 <kerning left="G" right="5" hadjustment="4.0000000000" />
+<kerning left="o" right="v" hadjustment="2.0000000000" />
+<kerning left="G" right="6" hadjustment="6.0000000000" />
 <kerning left="o" right="w" hadjustment="2.0000000000" />
 <kerning left="g" right="l" hadjustment="9.0000000000" />
 <kerning left="W" right="S" hadjustment="2.0000000000" />
@@ -1185,10 +1288,16 @@
 <kerning left="O" right="W" hadjustment="-1.0000000000" />
 <kerning left="W" right="e" hadjustment="-2.0000000000" />
 <kerning left="." right="h" hadjustment="8.0000000000" />
+<kerning left="7" right="1" hadjustment="8.0000000000" />
 <kerning left="p" right="H" hadjustment="8.0000000000" />
+<kerning left="7" right="2" hadjustment="6.0000000000" />
+<kerning left="7" right="3" hadjustment="5.0000000000" />
 <kerning left="W" right="h" hadjustment="6.0000000000" />
+<kerning left="7" right="4" hadjustment="-4.0000000000" />
 <kerning left="G" right="N" hadjustment="12.0000000000" />
 <kerning left="W" right="i" hadjustment="3.0000000000" />
+<kerning left="7" right="7" hadjustment="6.0000000000" />
+<kerning left="7" right="8" hadjustment="1.0000000000" />
 <kerning left="G" right="T" hadjustment="2.0000000000" />
 <kerning left="W" right="o" hadjustment="-2.0000000000" />
 <kerning left="O" right="c" hadjustment="8.0000000000" />
@@ -1221,7 +1330,7 @@
 <kerning left="G" right="o" hadjustment="7.0000000000" />
 <kerning left="x" right="y" hadjustment="3.0000000000" />
 <kerning left="p" right="m" hadjustment="8.0000000000" />
-<kerning left="h" right="a" hadjustment="8.0000000000" />
+<kerning left="h" right="a" hadjustment="7.0000000000" />
 <kerning left="p" right="n" hadjustment="8.0000000000" />
 <kerning left="h" right="b" hadjustment="10.0000000000" />
 <kerning left="p" right="o" hadjustment="6.0000000000" />
@@ -1282,14 +1391,17 @@
 <kerning left="H" right="R" hadjustment="12.0000000000" />
 <kerning left="H" right="S" hadjustment="8.0000000000" />
 <kerning left="a" right="6" hadjustment="7.0000000000" />
+<kerning left="8" right="9" hadjustment="4.0000000000" />
 <kerning left="H" right="T" hadjustment="6.0000000000" />
 <kerning left="P" right="a" hadjustment="1.0000000000" />
 <kerning left="H" right="U" hadjustment="12.0000000000" />
+<kerning left="'" right="e" hadjustment="2.0000000000" />
 <kerning left="H" right="V" hadjustment="4.0000000000" />
 <kerning left="H" right="W" hadjustment="6.0000000000" />
 <kerning left="0" right="0" hadjustment="6.0000000000" />
 <kerning left="H" right="X" hadjustment="8.0000000000" />
 <kerning left="P" right="e" hadjustment="1.0000000000" />
+<kerning left="'" right="h" hadjustment="8.0000000000" />
 <kerning left="0" right="1" hadjustment="4.0000000000" />
 <kerning left="a" right=";" hadjustment="9.0000000000" />
 <kerning left="i" right="H" hadjustment="11.0000000000" />
@@ -1307,9 +1419,10 @@
 <kerning left="y" right="l" hadjustment="6.0000000000" />
 <kerning left="P" right="o" hadjustment="1.0000000000" />
 <kerning left="H" right="b" hadjustment="12.0000000000" />
+<kerning left="y" right="m" hadjustment="6.0000000000" />
 <kerning left="'" right="s" hadjustment="4.0000000000" />
 <kerning left="H" right="c" hadjustment="8.0000000000" />
-<kerning left="y" right="n" hadjustment="5.0000000000" />
+<kerning left="y" right="n" hadjustment="6.0000000000" />
 <kerning left="'" right="t" hadjustment="5.0000000000" />
 <kerning left="H" right="d" hadjustment="8.0000000000" />
 <kerning left="P" right="r" hadjustment="6.0000000000" />
@@ -1397,11 +1510,12 @@
 <kerning left="b" right=")" hadjustment="4.0000000000" />
 <kerning left="a" right="n" hadjustment="12.0000000000" />
 <kerning left="I" right="G" hadjustment="8.0000000000" />
-<kerning left="Y" right="a" hadjustment="-10.0000000000" />
+<kerning left="Y" right="a" hadjustment="-11.0000000000" />
 <kerning left="a" right="o" hadjustment="10.0000000000" />
 <kerning left="I" right="H" hadjustment="12.0000000000" />
 <kerning left="a" right="p" hadjustment="10.0000000000" />
 <kerning left="I" right="I" hadjustment="12.0000000000" />
+<kerning left="9" right="0" hadjustment="6.0000000000" />
 <kerning left="a" right="q" hadjustment="7.0000000000" />
 <kerning left="I" right="J" hadjustment="8.0000000000" />
 <kerning left="a" right="r" hadjustment="10.0000000000" />
@@ -1417,8 +1531,10 @@
 <kerning left="a" right="x" hadjustment="6.0000000000" />
 <kerning left="A" right="D" hadjustment="8.0000000000" />
 <kerning left="(" right="a" hadjustment="4.0000000000" />
+<kerning left="9" right="8" hadjustment="6.0000000000" />
 <kerning left="a" right="y" hadjustment="4.0000000000" />
 <kerning left="I" right="R" hadjustment="12.0000000000" />
+<kerning left="9" right="9" hadjustment="5.0000000000" />
 <kerning left="a" right="z" hadjustment="10.0000000000" />
 <kerning left="A" right="H" hadjustment="6.0000000000" />
 <kerning left="Y" right="o" hadjustment="-10.0000000000" />
@@ -1438,6 +1554,7 @@
 <kerning left=")" right="(" hadjustment="8.0000000000" />
 <kerning left="1" right="5" hadjustment="8.0000000000" />
 <kerning left="1" right="6" hadjustment="10.0000000000" />
+<kerning left="1" right="7" hadjustment="10.0000000000" />
 <kerning left="A" right="R" hadjustment="6.0000000000" />
 <kerning left="z" right="i" hadjustment="11.0000000000" />
 <kerning left="(" right="o" hadjustment="4.0000000000" />
@@ -1461,6 +1578,7 @@
 <kerning left="r" right="k" hadjustment="6.0000000000" />
 <kerning left="I" right="n" hadjustment="12.0000000000" />
 <kerning left=")" right=":" hadjustment="6.0000000000" />
+<kerning left="s" right="'" hadjustment="1.0000000000" />
 <kerning left="r" right="l" hadjustment="6.0000000000" />
 <kerning left="A" right="c" hadjustment="1.0000000000" />
 <kerning left="r" right="m" hadjustment="6.0000000000" />
@@ -1480,6 +1598,7 @@
 <kerning left="I" right="u" hadjustment="11.0000000000" />
 <kerning left="j" right="e" hadjustment="8.0000000000" />
 <kerning left="s" right="." hadjustment="4.0000000000" />
+<kerning left="r" right="s" hadjustment="1.0000000000" />
 <kerning left="j" right="f" hadjustment="7.0000000000" />
 <kerning left="r" right="t" hadjustment="3.0000000000" />
 <kerning left="r" right="u" hadjustment="5.0000000000" />
@@ -1493,15 +1612,16 @@
 <kerning left="A" right="m" hadjustment="6.0000000000" />
 <kerning left="k" right="'" hadjustment="1.0000000000" />
 <kerning left="j" right="k" hadjustment="11.0000000000" />
+<kerning left="r" right="y" hadjustment="1.0000000000" />
 <kerning left="R" right="E" hadjustment="6.0000000000" />
 <kerning left="j" right="l" hadjustment="11.0000000000" />
-<kerning left="r" right="y" hadjustment="1.0000000000" />
 <kerning left="A" right="p" hadjustment="5.0000000000" />
 <kerning left="b" right="a" hadjustment="6.0000000000" />
 <kerning left="R" right="H" hadjustment="6.0000000000" />
 <kerning left="b" right="b" hadjustment="8.0000000000" />
 <kerning left="R" right="I" hadjustment="6.0000000000" />
 <kerning left="b" right="c" hadjustment="5.0000000000" />
+<kerning left="!" right="?" hadjustment="4.0000000000" />
 <kerning left="b" right="d" hadjustment="6.0000000000" />
 <kerning left="b" right="e" hadjustment="6.0000000000" />
 <kerning left="A" right="u" hadjustment="2.0000000000" />
@@ -1546,6 +1666,7 @@
 <kerning left="b" right="y" hadjustment="1.0000000000" />
 <kerning left="B" right="E" hadjustment="8.0000000000" />
 <kerning left="b" right="z" hadjustment="6.0000000000" />
+<kerning left="c" right="7" hadjustment="-2.0000000000" />
 <kerning left=":" right=":" hadjustment="8.0000000000" />
 <kerning left="B" right="G" hadjustment="6.0000000000" />
 <kerning left="B" right="H" hadjustment="8.0000000000" />
@@ -1553,13 +1674,14 @@
 <kerning left=")" right="h" hadjustment="8.0000000000" />
 <kerning left="2" right="1" hadjustment="6.0000000000" />
 <kerning left="2" right="2" hadjustment="8.0000000000" />
-<kerning left="2" right="3" hadjustment="6.0000000000" />
-<kerning left="null" right="a" hadjustment="6.0000000000" />
+<kerning left="2" right="3" hadjustment="7.0000000000" />
 <kerning left="2" right="4" hadjustment="4.0000000000" />
-<kerning left="null" right="b" hadjustment="10.0000000000" />
+<kerning left="null" right="a" hadjustment="6.0000000000" />
 <kerning left="2" right="5" hadjustment="6.0000000000" />
-<kerning left="null" right="c" hadjustment="5.0000000000" />
+<kerning left="null" right="b" hadjustment="10.0000000000" />
 <kerning left="2" right="6" hadjustment="6.0000000000" />
+<kerning left="null" right="c" hadjustment="5.0000000000" />
+<kerning left="2" right="7" hadjustment="2.0000000000" />
 <kerning left="null" right="d" hadjustment="7.0000000000" />
 <kerning left=")" right="o" hadjustment="6.0000000000" />
 <kerning left="c" right="B" hadjustment="6.0000000000" />
@@ -1595,6 +1717,7 @@
 <kerning left="null" right="s" hadjustment="8.0000000000" />
 <kerning left="null" right="t" hadjustment="6.0000000000" />
 <kerning left="B" right="a" hadjustment="5.0000000000" />
+<kerning left="t" right="'" hadjustment="8.0000000000" />
 <kerning left="null" right="u" hadjustment="10.0000000000" />
 <kerning left="s" right="l" hadjustment="6.0000000000" />
 <kerning left="null" right="v" hadjustment="4.0000000000" />
@@ -1638,7 +1761,7 @@
 <kerning left="S" right="I" hadjustment="8.0000000000" />
 <kerning left="divis" right="divis" hadjustment="10.0000000000" />
 <kerning left="c" right="d" hadjustment="4.8557304861" />
-<kerning left="c" right="e" hadjustment="5.0000000000" />
+<kerning left="c" right="e" hadjustment="3.0000000000" />
 <kerning left="B" right="u" hadjustment="8.0000000000" />
 <kerning left="c" right="f" hadjustment="5.0000000000" />
 <kerning left="c" right="g" hadjustment="5.0000000000" />
@@ -1692,11 +1815,12 @@
 <kerning left="3" right="2" hadjustment="6.0000000000" />
 <kerning left="3" right="3" hadjustment="6.0000000000" />
 <kerning left="S" right="h" hadjustment="8.0000000000" />
-<kerning left="3" right="4" hadjustment="7.0000000000" />
+<kerning left="3" right="4" hadjustment="6.0000000000" />
 <kerning left="S" right="i" hadjustment="6.0000000000" />
 <kerning left="3" right="5" hadjustment="4.0000000000" />
 <kerning left="+" right=")" hadjustment="2.0000000000" />
 <kerning left="3" right="6" hadjustment="6.0000000000" />
+<kerning left="3" right="7" hadjustment="2.0000000000" />
 <kerning left="+" right="+" hadjustment="10.0000000000" />
 <kerning left="d" right="E" hadjustment="12.0000000000" />
 <kerning left="S" right="o" hadjustment="6.0000000000" />
@@ -1707,6 +1831,7 @@
 <kerning left="K" right="e" hadjustment="-2.0000000000" />
 <kerning left="d" right="H" hadjustment="12.0000000000" />
 <kerning left="t" right="c" hadjustment="6.0000000000" />
+<kerning left="S" right="s" hadjustment="3.0000000000" />
 <kerning left="S" right="t" hadjustment="1.0000000000" />
 <kerning left="t" right="e" hadjustment="5.0000000000" />
 <kerning left="S" right="u" hadjustment="5.0000000000" />
@@ -1721,10 +1846,10 @@
 <kerning left="K" right="o" hadjustment="-1.0000000000" />
 <kerning left="t" right="l" hadjustment="8.0000000000" />
 <kerning left="C" right="c" hadjustment="6.0000000000" />
-<kerning left="t" right="m" hadjustment="10.0000000000" />
+<kerning left="t" right="m" hadjustment="11.0000000000" />
 <kerning left="+" right="=" hadjustment="10.0000000000" />
 <kerning left="l" right="a" hadjustment="4.0000000000" />
-<kerning left="t" right="n" hadjustment="10.0000000000" />
+<kerning left="t" right="n" hadjustment="11.0000000000" />
 <kerning left="t" right="o" hadjustment="4.0000000000" />
 <kerning left="C" right="e" hadjustment="6.0000000000" />
 <kerning left="l" right="c" hadjustment="8.0000000000" />
@@ -1732,7 +1857,7 @@
 <kerning left="3" right="M" hadjustment="8.0000000000" />
 <kerning left="l" right="e" hadjustment="2.0000000000" />
 <kerning left="t" right="r" hadjustment="10.0000000000" />
-<kerning left="C" right="h" hadjustment="7.0000000000" />
+<kerning left="C" right="h" hadjustment="6.0000000000" />
 <kerning left="K" right="v" hadjustment="-8.0000000000" />
 <kerning left="l" right="f" hadjustment="1.0000000000" />
 <kerning left="t" right="s" hadjustment="4.0000000000" />
@@ -1813,7 +1938,7 @@
 <kerning left="d" right="z" hadjustment="11.0000000000" />
 <kerning left="L" right="S" hadjustment="2.0000000000" />
 <kerning left="+" right="c" hadjustment="10.0000000000" />
-<kerning left="T" right="a" hadjustment="-10.0000000000" />
+<kerning left="T" right="a" hadjustment="-11.0000000000" />
 <kerning left="D" right="G" hadjustment="6.0000000000" />
 <kerning left="D" right="H" hadjustment="8.0000000000" />
 <kerning left="L" right="U" hadjustment="3.0000000000" />
@@ -1834,8 +1959,9 @@
 <kerning left="4" right="4" hadjustment="7.0000000000" />
 <kerning left="T" right="i" hadjustment="3.0000000000" />
 <kerning left="\" right="v" hadjustment="1.4285714286" />
-<kerning left="4" right="5" hadjustment="3.0000000000" />
+<kerning left="4" right="5" hadjustment="4.0000000000" />
 <kerning left="4" right="6" hadjustment="6.0000000000" />
+<kerning left="4" right="7" hadjustment="-1.0000000000" />
 <kerning left="T" right="l" hadjustment="4.0000000000" />
 <kerning left="," right="," hadjustment="8.0000000000" />
 <kerning left="L" right="a" hadjustment="6.0000000000" />
@@ -1907,6 +2033,7 @@
 <kerning left="e" right="l" hadjustment="8.0000000000" />
 <kerning left="=" right="+" hadjustment="10.0000000000" />
 <kerning left="U" right="R" hadjustment="12.0000000000" />
+<kerning left="m" right="y" hadjustment="4.0000000000" />
 <kerning left="U" right="S" hadjustment="5.0000000000" />
 <kerning left="e" right="m" hadjustment="8.0000000000" />
 <kerning left="4" right="c" hadjustment="6.0000000000" />
@@ -1916,11 +2043,13 @@
 <kerning left="M" right="H" hadjustment="12.0000000000" />
 <kerning left="U" right="V" hadjustment="6.0000000000" />
 <kerning left="e" right="p" hadjustment="8.0000000000" />
+<kerning left="M" right="I" hadjustment="12.0000000000" />
 <kerning left="e" right="q" hadjustment="6.0000000000" />
 <kerning left="e" right="r" hadjustment="8.0000000000" />
 <kerning left="v" right="H" hadjustment="6.0000000000" />
 <kerning left="f" right="." hadjustment="-5.0000000000" />
 <kerning left="e" right="s" hadjustment="5.0000000000" />
+<kerning left="M" right="L" hadjustment="12.0000000000" />
 <kerning left="e" right="t" hadjustment="5.0000000000" />
 <kerning left="M" right="N" hadjustment="12.0000000000" />
 <kerning left="e" right="u" hadjustment="8.0000000000" />
@@ -1949,7 +2078,7 @@
 <kerning left="$" right="a" hadjustment="6.0000000000" />
 <kerning left="E" right="R" hadjustment="10.0000000000" />
 <kerning left="n" right="space" hadjustment="1.0000000000" />
-<kerning left="M" right="a" hadjustment="8.0000000000" />
+<kerning left="M" right="a" hadjustment="7.0000000000" />
 <kerning left="E" right="T" hadjustment="5.0000000000" />
 <kerning left="n" right="S" hadjustment="6.0000000000" />
 <kerning left="v" right="a" hadjustment="-1.0000000000" />
@@ -1984,6 +2113,7 @@
 <kerning left="v" right="w" hadjustment="4.0000000000" />
 <kerning left="E" right="n" hadjustment="10.0000000000" />
 <kerning left="o" right="'" hadjustment="2.0000000000" />
+<kerning left="n" right="k" hadjustment="10.0000000000" />
 <kerning left="v" right="y" hadjustment="2.0000000000" />
 <kerning left="o" right=")" hadjustment="4.0000000000" />
 <kerning left="divis" right=")" hadjustment="2.0000000000" />
@@ -2008,6 +2138,7 @@
 <kerning left="N" right="C" hadjustment="8.0000000000" />
 <kerning left="f" right="k" hadjustment="8.0000000000" />
 <kerning left="f" right="l" hadjustment="8.0000000000" />
+<kerning left="n" right="y" hadjustment="4.0000000000" />
 <kerning left="f" right="m" hadjustment="8.0000000000" />
 <kerning left="f" right="n" hadjustment="8.0000000000" />
 <kerning left="N" right="G" hadjustment="8.0000000000" />
@@ -2024,6 +2155,7 @@
 <kerning left="f" right="s" hadjustment="2.0000000000" />
 <kerning left="f" right="t" hadjustment="4.0000000000" />
 <kerning left="divis" right="=" hadjustment="10.0000000000" />
+<kerning left="N" right="M" hadjustment="12.0000000000" />
 <kerning left="f" right="u" hadjustment="6.0000000000" />
 <kerning left="N" right="O" hadjustment="8.0000000000" />
 <kerning left="f" right="v" hadjustment="2.0000000000" />
@@ -2036,6 +2168,7 @@
 <kerning left="V" right="a" hadjustment="-4.0000000000" />
 <kerning left="F" right="H" hadjustment="10.0000000000" />
 <kerning left="5" right="r" hadjustment="5.0000000000" />
+<kerning left="6" right="0" hadjustment="4.0000000000" />
 <kerning left="V" right="e" hadjustment="-4.0000000000" />
 <kerning left="o" right="H" hadjustment="6.0000000000" />
 <kerning left="6" right="1" hadjustment="2.0000000000" />
@@ -2044,6 +2177,7 @@
 <kerning left="V" right="i" hadjustment="2.0000000000" />
 <kerning left="6" right="5" hadjustment="3.0000000000" />
 <kerning left="6" right="6" hadjustment="6.0000000000" />
+<kerning left="6" right="7" hadjustment="-2.0000000000" />
 <kerning left="N" right="a" hadjustment="9.0000000000" />
 <kerning left="V" right="o" hadjustment="-6.0000000000" />
 <kerning left="." right="." hadjustment="8.0000000000" />
