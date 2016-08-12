@@ -16,6 +16,7 @@
 	<sodipodi:namedview>
 		<sodipodi:guide  id="baseline" orientation="0,1" position="0,30"></sodipodi:guide>
 	</sodipodi:namedview>
-	<polygon class="st0" points="3.7,-5.2 42.1,72 51.1,72 12.7,-5.2 	"/>
+	<path class="st0" d="M-10.1,72h8.9l9.5-19.1h21.1L19.9,72h8.9l9.5-19.1h19.6l4-8H42.4L51.7,26h19.6l4-8H55.7L67.3-5.2h-8.9L46.8,18
+		H25.7L37.3-5.2h-8.9L16.8,18h-18l-4,8h18L3.4,44.9h-18l-4,8h18L-10.1,72z M21.7,26h21.1l-9.4,18.8H12.4L21.7,26z"/>
 </g>
 </svg>
