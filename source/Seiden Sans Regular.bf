@@ -164,17 +164,6 @@
 <grid width="2.0000"/>
 <grid width="4.0000"/>
 <grid width="1.0000"/>
-<grid width="2.0000"/>
-<grid width="4.0000"/>
-<grid width="1.0000"/>
-<grid width="2.0000"/>
-<grid width="4.0000"/>
-<grid width="1.0000"/>
-<grid width="1.0000"/>
-<grid width="2.0000"/>
-<grid width="4.0000"/>
-<grid width="1.0000"/>
-<grid width="2.0000"/>
 <grid width="1.0000"/>
 <grid width="2.0000"/>
 <grid width="4.0000"/>
@@ -195,6 +184,32 @@
 <grid width="4.0000"/>
 <grid width="1.0000"/>
 <grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
 <grid width="4.0000"/>
 <grid width="1.0000"/>
 <grid width="2.0000"/>
@@ -932,7 +947,7 @@
 
 <collection unicode="U+5e">
 	<selected id="0"/>
-	<glyph id="0" left="-22.976470588200002" right="27.023529411799998">
+	<glyph id="0" left="-26.976470588200002" right="31.023529411799998">
 		<layer name= "Layer" visible="true">
 			<path data="B -4.8764705882,77.3000000000 M -20.9764705882,47.0000000000 M -7.3764705882,47.0000000000 M 2.0235294118,64.7000000000 M 11.4235294118,47.0000000000 M 25.0235294118,47.0000000000 M 8.9235294118,77.3000000000 M -4.8764705882,77.3000000000" />
 		</layer>
@@ -1336,7 +1351,7 @@
 <kerning left="T" right="divis" hadjustment="-14.0000000000" />
 <kerning left="." right="A" hadjustment="2.0000000000" />
 <kerning left="g" right="Y" hadjustment="-8.0000000000" />
-<kerning left="x" right="/" hadjustment="8.0000000000" />
+<kerning left="x" right="/" hadjustment="6.0000000000" />
 <kerning left="." right="C" hadjustment="-4.0000000000" />
 <kerning left="W" right="A" hadjustment="-9.0000000000" />
 <kerning left="g" right="\" hadjustment="-2.0000000000" />
@@ -1346,14 +1361,14 @@
 <kerning left="o" right="m" hadjustment="0.0000000000" />
 <kerning left="W" right="G" hadjustment="-1.0000000000" />
 <kerning left="F" right="s" hadjustment="-1.0000000000" />
-<kerning left="G" right="/" hadjustment="8.0000000000" />
+<kerning left="G" right="/" hadjustment="6.0000000000" />
 <kerning left="W" right="divis" hadjustment="-4.0000000000" />
 <kerning left="W" right="J" hadjustment="-8.0000000000" />
 <kerning left="F" right="u" hadjustment="0.0000000000" />
 <kerning left="O" right="?" hadjustment="0.0000000000" />
 <kerning left="." right="O" hadjustment="-4.0000000000" />
-<kerning left="p" right="/" hadjustment="5.0000000000" />
 <kerning left="6" right="\" hadjustment="1.0000000000" />
+<kerning left="p" right="/" hadjustment="4.0000000000" />
 <kerning left="O" right="A" hadjustment="-4.0000000000" />
 <kerning left="." right="Q" hadjustment="-4.0000000000" />
 <kerning left="R" right="–" hadjustment="-4.0000000000" />
@@ -1375,7 +1390,7 @@
 <kerning left="g" right="r" hadjustment="1.0000000000" />
 <kerning left="." right="\" hadjustment="-14.0000000000" />
 <kerning left="h" right="/" hadjustment="6.0000000000" />
-<kerning left="W" right="\" hadjustment="8.0000000000" />
+<kerning left="W" right="\" hadjustment="6.0000000000" />
 <kerning left="p" right="?" hadjustment="-8.0000000000" />
 <kerning left="7" right=")" hadjustment="4.0000000000" />
 <kerning left="7" right="," hadjustment="-10.0000000000" />
@@ -1404,6 +1419,7 @@
 <kerning left="7" right="6" hadjustment="-2.0000000000" />
 <kerning left="7" right="7" hadjustment="2.0000000000" />
 <kerning left="7" right="8" hadjustment="-2.0000000000" />
+<kerning left="x" right="\" hadjustment="-2.0000000000" />
 <kerning left="W" right="m" hadjustment="-4.0000000000" />
 <kerning left="." right="p" hadjustment="2.0000000000" />
 <kerning left="h" right="C" hadjustment="-1.0000000000" />
@@ -1421,27 +1437,27 @@
 <kerning left="G" right="W" hadjustment="-1.0000000000" />
 <kerning left="W" right="r" hadjustment="-1.0000000000" />
 <kerning left="G" right="X" hadjustment="2.0000000000" />
-<kerning left="/" right="1" hadjustment="9.0000000000" />
+<kerning left="/" right="1" hadjustment="7.0000000000" />
 <kerning left="W" right="s" hadjustment="-4.0000000000" />
 <kerning left="X" right="–" hadjustment="-6.0000000000" />
 <kerning left="p" right="V" hadjustment="-6.0000000000" />
 <kerning left="G" right="Y" hadjustment="-4.0000000000" />
 <kerning left="O" right="f" hadjustment="0.0000000000" />
-<kerning left="X" right="/" hadjustment="8.0000000000" />
+<kerning left="X" right="/" hadjustment="6.0000000000" />
 <kerning left="X" right="—" hadjustment="-6.0000000000" />
 <kerning left="p" right="W" hadjustment="-4.0000000000" />
 <kerning left="W" right="t" hadjustment="-1.0000000000" />
 <kerning left="Y" right="divis" hadjustment="-10.0000000000" />
-<kerning left="W" right="u" hadjustment="-4.0000000000" />
 <kerning left="/" right="4" hadjustment="-6.0000000000" />
+<kerning left="W" right="u" hadjustment="-4.0000000000" />
 <kerning left="p" right="Y" hadjustment="-10.0000000000" />
-<kerning left="W" right="v" hadjustment="-4.0000000000" />
 <kerning left="/" right="5" hadjustment="4.0000000000" />
+<kerning left="W" right="v" hadjustment="-4.0000000000" />
 <kerning left="W" right="w" hadjustment="-4.0000000000" />
-<kerning left="/" right="7" hadjustment="8.0000000000" />
+<kerning left="/" right="7" hadjustment="6.0000000000" />
 <kerning left="W" right="x" hadjustment="-4.0000000000" />
+<kerning left="p" right="\" hadjustment="-4.0000000000" />
 <kerning left="W" right="y" hadjustment="-1.0000000000" />
-<kerning left="p" right="\" hadjustment="-2.0000000000" />
 <kerning left="/" right="9" hadjustment="1.0000000000" />
 <kerning left="/" right=":" hadjustment="-2.0000000000" />
 <kerning left="/" right=";" hadjustment="-2.0000000000" />
@@ -1454,130 +1470,141 @@
 <kerning left="T" right="—" hadjustment="-14.0000000000" />
 <kerning left="P" right="." hadjustment="-12.0000000000" />
 <kerning left="divis" right="—" hadjustment="6.0000000000" />
+<kerning left="P" right="/" hadjustment="-2.0000000000" />
 <kerning left="O" right="t" hadjustment="-1.0000000000" />
-<kerning left="/" right="A" hadjustment="-6.0000000000" />
-<kerning left="/" right="B" hadjustment="8.0000000000" />
-<kerning left="/" right="D" hadjustment="8.0000000000" />
-<kerning left="/" right="E" hadjustment="8.0000000000" />
-<kerning left="/" right="F" hadjustment="8.0000000000" />
+<kerning left="/" right="A" hadjustment="-10.0000000000" />
+<kerning left="/" right="B" hadjustment="6.0000000000" />
+<kerning left="/" right="D" hadjustment="6.0000000000" />
+<kerning left="/" right="E" hadjustment="6.0000000000" />
+<kerning left="h" right="\" hadjustment="-1.0000000000" />
+<kerning left="/" right="F" hadjustment="6.0000000000" />
 <kerning left="P" right="–" hadjustment="-2.0000000000" />
-<kerning left="/" right="H" hadjustment="8.0000000000" />
+<kerning left="/" right="H" hadjustment="6.0000000000" />
 <kerning left="P" right="—" hadjustment="-2.0000000000" />
 <kerning left="X" right="F" hadjustment="-3.0000000000" />
-<kerning left="/" right="I" hadjustment="8.0000000000" />
+<kerning left="/" right="I" hadjustment="6.0000000000" />
 <kerning left="X" right="G" hadjustment="-6.0000000000" />
-<kerning left="/" right="J" hadjustment="-6.0000000000" />
-<kerning left="/" right="K" hadjustment="8.0000000000" />
+<kerning left="/" right="J" hadjustment="-8.0000000000" />
+<kerning left="/" right="K" hadjustment="6.0000000000" />
 <kerning left="q" right="," hadjustment="2.0000000000" />
-<kerning left="H" right="/" hadjustment="8.0000000000" />
-<kerning left="/" right="L" hadjustment="8.0000000000" />
+<kerning left="H" right="/" hadjustment="6.0000000000" />
+<kerning left="/" right="L" hadjustment="6.0000000000" />
 <kerning left="–" right="divis" hadjustment="6.0000000000" />
-<kerning left="/" right="M" hadjustment="8.0000000000" />
+<kerning left="/" right="M" hadjustment="6.0000000000" />
 <kerning left="q" right="." hadjustment="2.0000000000" />
-<kerning left="/" right="N" hadjustment="8.0000000000" />
-<kerning left="q" right="/" hadjustment="10.0000000000" />
+<kerning left="/" right="N" hadjustment="6.0000000000" />
+<kerning left="q" right="/" hadjustment="8.0000000000" />
 <kerning left="p" right="s" hadjustment="0.0000000000" />
 <kerning left="/" right="O" hadjustment="1.0000000000" />
 <kerning left="W" right="–" hadjustment="-4.0000000000" />
-<kerning left="7" right="\" hadjustment="8.0000000000" />
+<kerning left="7" right="\" hadjustment="6.0000000000" />
 <kerning left="p" right="t" hadjustment="1.0000000000" />
 <kerning left="/" right="P" hadjustment="6.0000000000" />
 <kerning left="W" right="—" hadjustment="-4.0000000000" />
 <kerning left="P" right="A" hadjustment="-10.0000000000" />
 <kerning left="X" right="O" hadjustment="-4.0000000000" />
-<kerning left="/" right="R" hadjustment="6.0000000000" />
+<kerning left="/" right="R" hadjustment="5.0000000000" />
 <kerning left="X" right="divis" hadjustment="-6.0000000000" />
-<kerning left="/" right="S" hadjustment="2.0000000000" />
+<kerning left="/" right="S" hadjustment="1.0000000000" />
 <kerning left="y" right="A" hadjustment="-8.0000000000" />
 <kerning left="X" right="Q" hadjustment="-4.0000000000" />
-<kerning left="/" right="T" hadjustment="8.0000000000" />
+<kerning left="/" right="T" hadjustment="6.0000000000" />
 <kerning left="?" right="o" hadjustment="-2.0000000000" />
-<kerning left="/" right="U" hadjustment="8.0000000000" />
-<kerning left="/" right="V" hadjustment="8.0000000000" />
+<kerning left="/" right="U" hadjustment="6.0000000000" />
+<kerning left="/" right="V" hadjustment="6.0000000000" />
 <kerning left="?" right="q" hadjustment="0.0000000000" />
-<kerning left="/" right="W" hadjustment="8.0000000000" />
-<kerning left="/" right="X" hadjustment="8.0000000000" />
+<kerning left="/" right="W" hadjustment="6.0000000000" />
+<kerning left="/" right="X" hadjustment="6.0000000000" />
 <kerning left="X" right="V" hadjustment="2.0000000000" />
-<kerning left="/" right="Y" hadjustment="8.0000000000" />
+<kerning left="/" right="Y" hadjustment="6.0000000000" />
 <kerning left="i" right="," hadjustment="1.0000000000" />
 <kerning left="q" right=":" hadjustment="0.0000000000" />
-<kerning left="/" right="Z" hadjustment="8.0000000000" />
+<kerning left="/" right="Z" hadjustment="6.0000000000" />
 <kerning left="i" right="." hadjustment="1.0000000000" />
 <kerning left="X" right="Y" hadjustment="2.0000000000" />
 <kerning left="/" right="\" hadjustment="8.0000000000" />
-<kerning left="i" right="/" hadjustment="8.0000000000" />
-<kerning left="/" right="]" hadjustment="8.0000000000" />
+<kerning left="i" right="/" hadjustment="6.0000000000" />
+<kerning left="/" right="]" hadjustment="6.0000000000" />
 <kerning left="H" right="A" hadjustment="-2.0000000000" />
 <kerning left="q" right="?" hadjustment="0.0000000000" />
-<kerning left="X" right="\" hadjustment="8.0000000000" />
+<kerning left="X" right="\" hadjustment="6.0000000000" />
 <kerning left="Z" right="–" hadjustment="-2.0000000000" />
 <kerning left="/" right="a" hadjustment="0.0000000000" />
 <kerning left="i" right="4" hadjustment="-1.0000000000" />
 <kerning left="Z" right="—" hadjustment="-2.0000000000" />
 <kerning left="/" right="b" hadjustment="6.0000000000" />
+<kerning left="/" right="c" hadjustment="-2.0000000000" />
 <kerning left="X" right="a" hadjustment="-2.0000000000" />
+<kerning left="/" right="d" hadjustment="-2.0000000000" />
+<kerning left="/" right="e" hadjustment="-2.0000000000" />
+<kerning left="/" right="f" hadjustment="4.0000000000" />
 <kerning left="8" right="/" hadjustment="6.0000000000" />
-<kerning left="/" right="f" hadjustment="6.0000000000" />
 <kerning left="y" right="T" hadjustment="-8.0000000000" />
 <kerning left="/" right="g" hadjustment="-6.0000000000" />
 <kerning left="i" right=":" hadjustment="1.0000000000" />
 <kerning left="X" right="e" hadjustment="-6.0000000000" />
-<kerning left="/" right="h" hadjustment="8.0000000000" />
+<kerning left="/" right="h" hadjustment="6.0000000000" />
 <kerning left="i" right=";" hadjustment="1.0000000000" />
 <kerning left="'" right="\" hadjustment="4.0000000000" />
-<kerning left="a" right="/" hadjustment="8.0000000000" />
+<kerning left="a" right="/" hadjustment="6.0000000000" />
 <kerning left="/" right="i" hadjustment="6.0000000000" />
 <kerning left="8" right="2" hadjustment="-2.0000000000" />
 <kerning left="y" right="W" hadjustment="-3.0000000000" />
+<kerning left="/" right="j" hadjustment="4.0000000000" />
 <kerning left="8" right="3" hadjustment="-1.0000000000" />
 <kerning left="&amp;" right="/" hadjustment="8.0000000000" />
-<kerning left="/" right="j" hadjustment="4.0000000000" />
 <kerning left="y" right="X" hadjustment="-6.0000000000" />
 <kerning left="/" right="k" hadjustment="6.0000000000" />
 <kerning left="y" right="Y" hadjustment="-7.0000000000" />
 <kerning left="V" right="–" hadjustment="-6.0000000000" />
-<kerning left="X" right="i" hadjustment="-2.0000000000" />
-<kerning left="/" right="l" hadjustment="8.0000000000" />
-<kerning left="8" right="5" hadjustment="-2.0000000000" />
 <kerning left="P" right="\" hadjustment="2.0000000000" />
+<kerning left="X" right="i" hadjustment="-2.0000000000" />
+<kerning left="/" right="l" hadjustment="6.0000000000" />
+<kerning left="8" right="5" hadjustment="-2.0000000000" />
 <kerning left="V" right="—" hadjustment="-6.0000000000" />
 <kerning left="a" right="3" hadjustment="-1.0000000000" />
-<kerning left="/" right="n" hadjustment="0.0000000000" />
+<kerning left="/" right="m" hadjustment="-1.0000000000" />
+<kerning left="/" right="n" hadjustment="-1.0000000000" />
 <kerning left="8" right="7" hadjustment="-2.0000000000" />
-<kerning left="/" right="o" hadjustment="-6.0000000000" />
 <kerning left="y" right="\" hadjustment="1.0000000000" />
+<kerning left="/" right="o" hadjustment="-6.0000000000" />
 <kerning left="Y" right=")" hadjustment="2.0000000000" />
-<kerning left="/" right="p" hadjustment="0.0000000000" />
+<kerning left="/" right="p" hadjustment="-2.0000000000" />
 <kerning left="8" right="9" hadjustment="0.0000000000" />
 <kerning left="P" right="a" hadjustment="-2.0000000000" />
-<kerning left="/" right="q" hadjustment="-4.0000000000" />
+<kerning left="/" right="q" hadjustment="-6.0000000000" />
 <kerning left="Y" right="+" hadjustment="-10.0000000000" />
 <kerning left="0" right="." hadjustment="-2.0000000000" />
 <kerning left="X" right="o" hadjustment="-6.0000000000" />
 <kerning left="P" right="c" hadjustment="-3.0000000000" />
 <kerning left="Y" right="," hadjustment="-10.0000000000" />
 <kerning left="a" right="9" hadjustment="-1.0000000000" />
-<kerning left="/" right="s" hadjustment="-2.0000000000" />
-<kerning left="/" right="t" hadjustment="5.0000000000" />
+<kerning left="/" right="s" hadjustment="-4.0000000000" />
+<kerning left="/" right="t" hadjustment="4.0000000000" />
 <kerning left="q" right="T" hadjustment="-8.0000000000" />
 <kerning left="P" right="e" hadjustment="-3.0000000000" />
 <kerning left="Y" right="." hadjustment="-10.0000000000" />
-<kerning left="Y" right="/" hadjustment="-4.0000000000" />
+<kerning left="/" right="u" hadjustment="-2.0000000000" />
+<kerning left="Y" right="/" hadjustment="-6.0000000000" />
 <kerning left="0" right="2" hadjustment="-2.0000000000" />
-<kerning left="/" right="v" hadjustment="-2.0000000000" />
+<kerning left="/" right="v" hadjustment="1.0000000000" />
 <kerning left="q" right="V" hadjustment="-4.0000000000" />
 <kerning left="q" right="W" hadjustment="-2.0000000000" />
-<kerning left="X" right="u" hadjustment="-6.0000000000" />
 <kerning left="0" right="4" hadjustment="1.0000000000" />
+<kerning left="X" right="u" hadjustment="-6.0000000000" />
+<kerning left="/" right="x" hadjustment="-2.0000000000" />
 <kerning left="P" right="i" hadjustment="-1.0000000000" />
 <kerning left="X" right="v" hadjustment="-6.0000000000" />
 <kerning left="a" right="?" hadjustment="-10.0000000000" />
 <kerning left="q" right="Y" hadjustment="-8.0000000000" />
-<kerning left="H" right="\" hadjustment="8.0000000000" />
+<kerning left="H" right="\" hadjustment="6.0000000000" />
+<kerning left="/" right="y" hadjustment="0.0000000000" />
 <kerning left="(" right=")" hadjustment="6.0000000000" />
 <kerning left="X" right="w" hadjustment="-6.0000000000" />
+<kerning left="/" right="z" hadjustment="-2.0000000000" />
 <kerning left="X" right="y" hadjustment="-4.0000000000" />
 <kerning left="/" right="|" hadjustment="8.0000000000" />
+<kerning left="q" right="\" hadjustment="-2.0000000000" />
 <kerning left="/" right="}" hadjustment="8.0000000000" />
 <kerning left="—" right="–" hadjustment="6.0000000000" />
 <kerning left="Z" right="divis" hadjustment="-2.0000000000" />
@@ -1596,7 +1623,7 @@
 <kerning left="P" right="u" hadjustment="-1.0000000000" />
 <kerning left="Y" right="?" hadjustment="0.0000000000" />
 <kerning left="i" right="Y" hadjustment="-2.0000000000" />
-<kerning left="z" right="/" hadjustment="8.0000000000" />
+<kerning left="z" right="/" hadjustment="6.0000000000" />
 <kerning left="(" right="7" hadjustment="6.0000000000" />
 <kerning left="Y" right="A" hadjustment="-14.0000000000" />
 <kerning left="r" right="–" hadjustment="-2.0000000000" />
@@ -1608,7 +1635,7 @@
 <kerning left="Y" right="G" hadjustment="-3.0000000000" />
 <kerning left="a" right="T" hadjustment="-8.0000000000" />
 <kerning left="a" right="V" hadjustment="-6.0000000000" />
-<kerning left="I" right="/" hadjustment="8.0000000000" />
+<kerning left="I" right="/" hadjustment="6.0000000000" />
 <kerning left="Y" right="J" hadjustment="-14.0000000000" />
 <kerning left="a" right="W" hadjustment="-5.0000000000" />
 <kerning left="a" right="Y" hadjustment="-12.0000000000" />
@@ -1624,13 +1651,13 @@
 <kerning left="A" right="." hadjustment="2.0000000000" />
 <kerning left="–" right="=" hadjustment="6.0000000000" />
 <kerning left="Y" right="V" hadjustment="4.0000000000" />
-<kerning left="A" right="/" hadjustment="8.0000000000" />
+<kerning left="A" right="/" hadjustment="6.0000000000" />
 <kerning left="r" right=":" hadjustment="4.0000000000" />
 <kerning left="r" right=";" hadjustment="4.0000000000" />
 <kerning left="Y" right="X" hadjustment="2.0000000000" />
 <kerning left="j" right="/" hadjustment="6.0000000000" />
 <kerning left="I" right="A" hadjustment="-2.0000000000" />
-<kerning left="Y" right="\" hadjustment="8.0000000000" />
+<kerning left="Y" right="\" hadjustment="6.0000000000" />
 <kerning left="0" right="`" hadjustment="-2.0000000000" />
 <kerning left="r" right="A" hadjustment="-4.0000000000" />
 <kerning left="(" right="T" hadjustment="2.0000000000" />
@@ -1667,6 +1694,7 @@
 <kerning left="9" right="8" hadjustment="-1.0000000000" />
 <kerning left="–" right="T" hadjustment="-14.0000000000" />
 <kerning left="b" right="5" hadjustment="-1.0000000000" />
+<kerning left="z" right="\" hadjustment="-2.0000000000" />
 <kerning left="–" right="V" hadjustment="-6.0000000000" />
 <kerning left="b" right="7" hadjustment="-3.0000000000" />
 <kerning left="9" right=";" hadjustment="-1.0000000000" />
@@ -1687,23 +1715,23 @@
 <kerning left="Y" right="r" hadjustment="-6.0000000000" />
 <kerning left="A" right="L" hadjustment="-2.0000000000" />
 <kerning left="r" right="V" hadjustment="-1.0000000000" />
-<kerning left="Z" right="/" hadjustment="8.0000000000" />
+<kerning left="Z" right="/" hadjustment="6.0000000000" />
 <kerning left="1" right="2" hadjustment="3.0000000000" />
 <kerning left="Y" right="s" hadjustment="-8.0000000000" />
 <kerning left="1" right="3" hadjustment="0.0000000000" />
 <kerning left="Y" right="u" hadjustment="-12.0000000000" />
 <kerning left="A" right="O" hadjustment="-4.0000000000" />
 <kerning left="r" right="Y" hadjustment="-6.0000000000" />
-<kerning left="I" right="\" hadjustment="8.0000000000" />
+<kerning left="I" right="\" hadjustment="6.0000000000" />
 <kerning left="1" right="5" hadjustment="1.0000000000" />
 <kerning left="Y" right="v" hadjustment="-8.0000000000" />
 <kerning left="b" right="?" hadjustment="-8.0000000000" />
 <kerning left="1" right="6" hadjustment="2.0000000000" />
 <kerning left="Y" right="w" hadjustment="-9.0000000000" />
 <kerning left="1" right="7" hadjustment="2.0000000000" />
+<kerning left="r" right="\" hadjustment="1.0000000000" />
 <kerning left="1" right="8" hadjustment="2.0000000000" />
 <kerning left="Y" right="y" hadjustment="-6.0000000000" />
-<kerning left="r" right="\" hadjustment="1.0000000000" />
 <kerning left="A" right="S" hadjustment="-1.0000000000" />
 <kerning left="Y" right="z" hadjustment="-8.0000000000" />
 <kerning left="A" right="T" hadjustment="-12.0000000000" />
@@ -1712,10 +1740,10 @@
 <kerning left="A" right="W" hadjustment="-9.0000000000" />
 <kerning left="r" right="b" hadjustment="2.0000000000" />
 <kerning left="A" right="Y" hadjustment="-14.0000000000" />
-<kerning left="R" right="/" hadjustment="8.0000000000" />
+<kerning left="R" right="/" hadjustment="6.0000000000" />
 <kerning left="r" right="d" hadjustment="-2.0000000000" />
 <kerning left="r" right="e" hadjustment="0.0000000000" />
-<kerning left="A" right="\" hadjustment="-8.0000000000" />
+<kerning left="A" right="\" hadjustment="-10.0000000000" />
 <kerning left="r" right="f" hadjustment="2.0000000000" />
 <kerning left="{" right="/" hadjustment="8.0000000000" />
 <kerning left="j" right="\" hadjustment="4.0000000000" />
@@ -1725,15 +1753,15 @@
 <kerning left="r" right="n" hadjustment="2.0000000000" />
 <kerning left="A" right="e" hadjustment="-2.0000000000" />
 <kerning left="r" right="o" hadjustment="-1.0000000000" />
-<kerning left="r" right="p" hadjustment="2.0000000000" />
 <kerning left="J" right="/" hadjustment="6.0000000000" />
+<kerning left="r" right="p" hadjustment="2.0000000000" />
 <kerning left="A" right="i" hadjustment="-4.0000000000" />
-<kerning left="s" right="/" hadjustment="8.0000000000" />
+<kerning left="s" right="/" hadjustment="6.0000000000" />
 <kerning left="r" right="t" hadjustment="3.0000000000" />
 <kerning left="r" right="u" hadjustment="2.0000000000" />
 <kerning left="=" right="divis" hadjustment="6.0000000000" />
 <kerning left="A" right="l" hadjustment="-4.0000000000" />
-<kerning left="b" right="\" hadjustment="-1.0000000000" />
+<kerning left="b" right="\" hadjustment="-2.0000000000" />
 <kerning left="R" right="C" hadjustment="-3.0000000000" />
 <kerning left="A" right="m" hadjustment="-2.0000000000" />
 <kerning left="j" right="k" hadjustment="1.0000000000" />
@@ -1743,20 +1771,20 @@
 <kerning left="A" right="o" hadjustment="-4.0000000000" />
 <kerning left="A" right="q" hadjustment="-2.0000000000" />
 <kerning left="k" right="," hadjustment="6.0000000000" />
-<kerning left="B" right="/" hadjustment="6.0000000000" />
+<kerning left="B" right="/" hadjustment="4.0000000000" />
 <kerning left="A" right="t" hadjustment="-6.0000000000" />
 <kerning left="k" right="." hadjustment="6.0000000000" />
 <kerning left="A" right="u" hadjustment="-4.0000000000" />
-<kerning left="1" right="\" hadjustment="8.0000000000" />
+<kerning left="1" right="\" hadjustment="6.0000000000" />
 <kerning left="k" right="/" hadjustment="10.0000000000" />
 <kerning left="A" right="v" hadjustment="-6.0000000000" />
 <kerning left="A" right="w" hadjustment="-6.0000000000" />
+<kerning left="Z" right="\" hadjustment="6.0000000000" />
 <kerning left="s" right="?" hadjustment="-4.0000000000" />
 <kerning left="A" right="y" hadjustment="-5.0000000000" />
-<kerning left="Z" right="\" hadjustment="8.0000000000" />
 <kerning left=":" right="." hadjustment="4.0000000000" />
 <kerning left="R" right="V" hadjustment="-6.0000000000" />
-<kerning left=":" right="/" hadjustment="8.0000000000" />
+<kerning left=":" right="/" hadjustment="6.0000000000" />
 <kerning left="J" right="I" hadjustment="0.0000000000" />
 <kerning left="k" right=":" hadjustment="6.0000000000" />
 <kerning left="Z" right="e" hadjustment="-1.0000000000" />
@@ -1765,6 +1793,7 @@
 <kerning left="c" right="1" hadjustment="0.0000000000" />
 <kerning left="B" right="A" hadjustment="-1.0000000000" />
 <kerning left="k" right="?" hadjustment="-2.0000000000" />
+<kerning left="R" right="\" hadjustment="-2.0000000000" />
 <kerning left="L" right="quote" hadjustment="-10.0000000000" />
 <kerning left="—" right="S" hadjustment="-2.0000000000" />
 <kerning left="c" right="4" hadjustment="-1.0000000000" />
@@ -1779,26 +1808,26 @@
 <kerning left="Z" right="o" hadjustment="-1.0000000000" />
 <kerning left="—" right="X" hadjustment="-6.0000000000" />
 <kerning left="R" right="c" hadjustment="-4.0000000000" />
-<kerning left="2" right="/" hadjustment="8.0000000000" />
+<kerning left="2" right="/" hadjustment="6.0000000000" />
 <kerning left="—" right="Y" hadjustment="-10.0000000000" />
 <kerning left="s" right="T" hadjustment="-10.0000000000" />
 <kerning left="R" right="e" hadjustment="-4.0000000000" />
 <kerning left="2" right="1" hadjustment="0.0000000000" />
 <kerning left="[" right="/" hadjustment="8.0000000000" />
 <kerning left="s" right="V" hadjustment="-6.0000000000" />
-<kerning left="s" right="W" hadjustment="-4.0000000000" />
 <kerning left="2" right="3" hadjustment="0.0000000000" />
+<kerning left="s" right="W" hadjustment="-4.0000000000" />
+<kerning left="2" right="4" hadjustment="-3.0000000000" />
 <kerning left="Z" right="u" hadjustment="-1.0000000000" />
 <kerning left=":" right="A" hadjustment="2.0000000000" />
-<kerning left="2" right="4" hadjustment="-3.0000000000" />
 <kerning left="R" right="i" hadjustment="-3.0000000000" />
 <kerning left="2" right="5" hadjustment="-1.0000000000" />
 <kerning left="c" right="?" hadjustment="-2.0000000000" />
 <kerning left="s" right="Y" hadjustment="-8.0000000000" />
-<kerning left="J" right="\" hadjustment="8.0000000000" />
+<kerning left="J" right="\" hadjustment="6.0000000000" />
 <kerning left="c" right="A" hadjustment="-1.0000000000" />
+<kerning left="s" right="\" hadjustment="-4.0000000000" />
 <kerning left="R" right="l" hadjustment="-3.0000000000" />
-<kerning left="s" right="\" hadjustment="-2.0000000000" />
 <kerning left="R" right="m" hadjustment="-2.0000000000" />
 <kerning left="R" right="n" hadjustment="-2.0000000000" />
 <kerning left="R" right="o" hadjustment="-4.0000000000" />
@@ -1810,7 +1839,7 @@
 <kerning left="|" right="/" hadjustment="8.0000000000" />
 <kerning left="B" right="\" hadjustment="2.0000000000" />
 <kerning left="R" right="y" hadjustment="-2.0000000000" />
-<kerning left="k" right="\" hadjustment="4.0000000000" />
+<kerning left="k" right="\" hadjustment="0.0000000000" />
 <kerning left=":" right="T" hadjustment="-4.0000000000" />
 <kerning left="B" right="a" hadjustment="2.0000000000" />
 <kerning left=":" right="V" hadjustment="-4.0000000000" />
@@ -1826,18 +1855,19 @@
 <kerning left="k" right="e" hadjustment="-1.0000000000" />
 <kerning left="c" right="Y" hadjustment="-13.0000000000" />
 <kerning left=":" right="\" hadjustment="-2.0000000000" />
-<kerning left="t" right="/" hadjustment="8.0000000000" />
+<kerning left="t" right="/" hadjustment="6.0000000000" />
 <kerning left="B" right="i" hadjustment="0.0000000000" />
 <kerning left="s" right="t" hadjustment="-1.0000000000" />
 <kerning left="t" right="0" hadjustment="2.0000000000" />
 <kerning left="S" right="A" hadjustment="-5.0000000000" />
+<kerning left="c" right="\" hadjustment="-2.0000000000" />
 <kerning left="c" right="`" hadjustment="-4.0000000000" />
 <kerning left="B" right="q" hadjustment="0.0000000000" />
 <kerning left="K" right=":" hadjustment="4.0000000000" />
 <kerning left="K" right=";" hadjustment="4.0000000000" />
 <kerning left="l" right="," hadjustment="4.0000000000" />
 <kerning left="divis" right="divis" hadjustment="6.0000000000" />
-<kerning left="C" right="/" hadjustment="8.0000000000" />
+<kerning left="C" right="/" hadjustment="6.0000000000" />
 <kerning left="c" right="d" hadjustment="-1.0000000000" />
 <kerning left=":" right="g" hadjustment="2.0000000000" />
 <kerning left="c" right="e" hadjustment="-1.0000000000" />
@@ -1846,23 +1876,24 @@
 <kerning left=":" right="i" hadjustment="1.0000000000" />
 <kerning left="|" right="I" hadjustment="8.0000000000" />
 <kerning left="K" right="A" hadjustment="2.0000000000" />
-<kerning left="[" right="\" hadjustment="8.0000000000" />
+<kerning left="[" right="\" hadjustment="6.0000000000" />
 <kerning left="[" right="]" hadjustment="6.0000000000" />
 <kerning left=":" right="p" hadjustment="0.0000000000" />
 <kerning left="S" right="T" hadjustment="-1.0000000000" />
 <kerning left="c" right="o" hadjustment="-1.0000000000" />
 <kerning left=";" right="." hadjustment="4.0000000000" />
-<kerning left=";" right="/" hadjustment="8.0000000000" />
+<kerning left=";" right="/" hadjustment="6.0000000000" />
 <kerning left="c" right="q" hadjustment="-1.0000000000" />
 <kerning left="l" right=":" hadjustment="4.0000000000" />
 <kerning left="l" right=";" hadjustment="4.0000000000" />
-<kerning left="d" right="/" hadjustment="8.0000000000" />
+<kerning left="d" right="/" hadjustment="6.0000000000" />
 <kerning left="c" right="u" hadjustment="-1.0000000000" />
 <kerning left="l" right="?" hadjustment="-4.0000000000" />
+<kerning left="S" right="\" hadjustment="1.0000000000" />
 <kerning left="\" right="'" hadjustment="-6.0000000000" />
 <kerning left="|" right="\" hadjustment="8.0000000000" />
 <kerning left="l" right="C" hadjustment="-1.0000000000" />
-<kerning left="\" right=")" hadjustment="8.0000000000" />
+<kerning left="\" right=")" hadjustment="6.0000000000" />
 <kerning left="S" right="a" hadjustment="2.0000000000" />
 <kerning left="C" right="H" hadjustment="-1.0000000000" />
 <kerning left=";" right=";" hadjustment="4.0000000000" />
@@ -1878,12 +1909,12 @@
 <kerning left="\" right="1" hadjustment="2.0000000000" />
 <kerning left="3" right="4" hadjustment="1.0000000000" />
 <kerning left=";" right="A" hadjustment="2.0000000000" />
-<kerning left="K" right="\" hadjustment="12.0000000000" />
-<kerning left="\" right="2" hadjustment="8.0000000000" />
+<kerning left="K" right="\" hadjustment="10.0000000000" />
+<kerning left="\" right="2" hadjustment="6.0000000000" />
 <kerning left="\" right="3" hadjustment="6.0000000000" />
 <kerning left="\" right="4" hadjustment="2.0000000000" />
 <kerning left="+" right="+" hadjustment="6.0000000000" />
-<kerning left="t" right="\" hadjustment="5.0000000000" />
+<kerning left="t" right="\" hadjustment="6.0000000000" />
 <kerning left="\" right="5" hadjustment="5.0000000000" />
 <kerning left="T" right=")" hadjustment="2.0000000000" />
 <kerning left="\" right="6" hadjustment="3.0000000000" />
@@ -1902,84 +1933,84 @@
 <kerning left="T" right="." hadjustment="-10.0000000000" />
 <kerning left="L" right="!" hadjustment="3.0000000000" />
 <kerning left="\" right=";" hadjustment="8.0000000000" />
-<kerning left="T" right="/" hadjustment="-4.0000000000" />
+<kerning left="T" right="/" hadjustment="-6.0000000000" />
 <kerning left="/" right="quote" hadjustment="5.0000000000" />
 <kerning left="S" right="v" hadjustment="-2.0000000000" />
-<kerning left="C" right="\" hadjustment="8.0000000000" />
+<kerning left="C" right="\" hadjustment="5.0000000000" />
 <kerning left="S" right="w" hadjustment="-2.0000000000" />
 <kerning left="L" right="'" hadjustment="-10.0000000000" />
 <kerning left="t" right="h" hadjustment="0.0000000000" />
-<kerning left="\" right="A" hadjustment="8.0000000000" />
+<kerning left="\" right="A" hadjustment="6.0000000000" />
 <kerning left="S" right="y" hadjustment="-2.0000000000" />
 <kerning left="l" right="\" hadjustment="6.0000000000" />
-<kerning left="\" right="B" hadjustment="8.0000000000" />
-<kerning left="\" right="C" hadjustment="4.0000000000" />
+<kerning left="\" right="B" hadjustment="6.0000000000" />
+<kerning left="\" right="C" hadjustment="2.0000000000" />
 <kerning left=";" right="T" hadjustment="-6.0000000000" />
 <kerning left="C" right="a" hadjustment="2.0000000000" />
-<kerning left="\" right="D" hadjustment="8.0000000000" />
+<kerning left="\" right="D" hadjustment="6.0000000000" />
 <kerning left="K" right="o" hadjustment="-4.0000000000" />
-<kerning left="\" right="E" hadjustment="8.0000000000" />
+<kerning left="\" right="E" hadjustment="6.0000000000" />
 <kerning left=";" right="V" hadjustment="-4.0000000000" />
 <kerning left="L" right="," hadjustment="4.0000000000" />
-<kerning left="\" right="F" hadjustment="8.0000000000" />
+<kerning left="\" right="F" hadjustment="6.0000000000" />
 <kerning left="T" right=":" hadjustment="-4.0000000000" />
 <kerning left=";" right="W" hadjustment="-2.0000000000" />
 <kerning left="C" right="d" hadjustment="-1.0000000000" />
 <kerning left="+" right="=" hadjustment="6.0000000000" />
 <kerning left="T" right=";" hadjustment="-6.0000000000" />
-<kerning left="\" right="H" hadjustment="8.0000000000" />
+<kerning left="\" right="H" hadjustment="6.0000000000" />
 <kerning left="C" right="e" hadjustment="-1.0000000000" />
 <kerning left="L" right="." hadjustment="4.0000000000" />
-<kerning left="\" right="I" hadjustment="8.0000000000" />
+<kerning left="\" right="I" hadjustment="6.0000000000" />
 <kerning left="C" right="f" hadjustment="-2.0000000000" />
 <kerning left=";" right="Y" hadjustment="-6.0000000000" />
-<kerning left="L" right="/" hadjustment="10.0000000000" />
+<kerning left="L" right="/" hadjustment="8.0000000000" />
 <kerning left="T" right="=" hadjustment="-14.0000000000" />
-<kerning left="\" right="J" hadjustment="10.0000000000" />
+<kerning left="\" right="J" hadjustment="8.0000000000" />
 <kerning left="K" right="u" hadjustment="-4.0000000000" />
 <kerning left="C" right="h" hadjustment="-2.0000000000" />
 <kerning left="t" right="r" hadjustment="0.0000000000" />
-<kerning left="\" right="K" hadjustment="8.0000000000" />
+<kerning left="\" right="K" hadjustment="6.0000000000" />
 <kerning left="K" right="v" hadjustment="-8.0000000000" />
 <kerning left="C" right="i" hadjustment="0.0000000000" />
 <kerning left="T" right="?" hadjustment="2.0000000000" />
-<kerning left="u" right="/" hadjustment="7.0000000000" />
+<kerning left="u" right="/" hadjustment="6.0000000000" />
 <kerning left=";" right="\" hadjustment="-2.0000000000" />
-<kerning left="\" right="L" hadjustment="8.0000000000" />
+<kerning left="\" right="L" hadjustment="6.0000000000" />
 <kerning left="K" right="w" hadjustment="-6.0000000000" />
 <kerning left="t" right="t" hadjustment="2.0000000000" />
-<kerning left="\" right="M" hadjustment="8.0000000000" />
+<kerning left="\" right="M" hadjustment="6.0000000000" />
 <kerning left="T" right="A" hadjustment="-12.0000000000" />
-<kerning left="\" right="N" hadjustment="8.0000000000" />
+<kerning left="\" right="N" hadjustment="6.0000000000" />
 <kerning left="K" right="y" hadjustment="-4.0000000000" />
 <kerning left="C" right="l" hadjustment="-2.0000000000" />
 <kerning left="\" right="O" hadjustment="0.0000000000" />
-<kerning left="d" right="\" hadjustment="8.0000000000" />
-<kerning left="\" right="P" hadjustment="8.0000000000" />
+<kerning left="d" right="\" hadjustment="5.0000000000" />
+<kerning left="\" right="P" hadjustment="6.0000000000" />
 <kerning left="l" right="l" hadjustment="0.0000000000" />
 <kerning left="C" right="o" hadjustment="-1.0000000000" />
-<kerning left="\" right="R" hadjustment="8.0000000000" />
+<kerning left="\" right="R" hadjustment="6.0000000000" />
 <kerning left="\" right="S" hadjustment="6.0000000000" />
 <kerning left="u" right="7" hadjustment="0.0000000000" />
 <kerning left="L" right=":" hadjustment="4.0000000000" />
-<kerning left="\" right="T" hadjustment="-4.0000000000" />
+<kerning left="\" right="T" hadjustment="-6.0000000000" />
 <kerning left="l" right="o" hadjustment="1.0000000000" />
 <kerning left="L" right=";" hadjustment="4.0000000000" />
 <kerning left="l" right="p" hadjustment="1.0000000000" />
-<kerning left="\" right="V" hadjustment="-4.0000000000" />
+<kerning left="\" right="V" hadjustment="-8.0000000000" />
 <kerning left="T" right="J" hadjustment="-12.0000000000" />
 <kerning left=";" right="g" hadjustment="2.0000000000" />
 <kerning left="C" right="t" hadjustment="-2.0000000000" />
-<kerning left="\" right="W" hadjustment="-3.0000000000" />
+<kerning left="\" right="W" hadjustment="-6.0000000000" />
 <kerning left="C" right="u" hadjustment="-1.0000000000" />
-<kerning left="\" right="X" hadjustment="8.0000000000" />
+<kerning left="\" right="X" hadjustment="6.0000000000" />
 <kerning left="C" right="v" hadjustment="-1.0000000000" />
 <kerning left="L" right="?" hadjustment="-12.0000000000" />
 <kerning left=";" right="i" hadjustment="1.0000000000" />
-<kerning left="m" right="/" hadjustment="8.0000000000" />
-<kerning left="\" right="Y" hadjustment="-4.0000000000" />
+<kerning left="m" right="/" hadjustment="6.0000000000" />
+<kerning left="\" right="Y" hadjustment="-6.0000000000" />
 <kerning left="C" right="w" hadjustment="0.0000000000" />
-<kerning left="\" right="Z" hadjustment="8.0000000000" />
+<kerning left="\" right="Z" hadjustment="7.0000000000" />
 <kerning left="\" right="\" hadjustment="-10.0000000000" />
 <kerning left="T" right="O" hadjustment="-4.0000000000" />
 <kerning left="C" right="z" hadjustment="-2.0000000000" />
@@ -1991,60 +2022,61 @@
 <kerning left="+" right="W" hadjustment="-4.0000000000" />
 <kerning left="\" right="a" hadjustment="8.0000000000" />
 <kerning left="l" right="|" hadjustment="2.0000000000" />
-<kerning left="\" right="b" hadjustment="8.0000000000" />
+<kerning left="\" right="b" hadjustment="6.0000000000" />
 <kerning left="+" right="Y" hadjustment="-10.0000000000" />
 <kerning left="\" right="c" hadjustment="4.0000000000" />
 <kerning left="\" right="d" hadjustment="2.0000000000" />
 <kerning left="\" right="e" hadjustment="4.0000000000" />
 <kerning left="T" right="Y" hadjustment="2.0000000000" />
-<kerning left="\" right="f" hadjustment="8.0000000000" />
+<kerning left="\" right="f" hadjustment="6.0000000000" />
 <kerning left="e" right="/" hadjustment="5.0000000000" />
-<kerning left="\" right="g" hadjustment="10.0000000000" />
+<kerning left="\" right="g" hadjustment="8.0000000000" />
 <kerning left="e" right="1" hadjustment="-2.0000000000" />
-<kerning left="\" right="h" hadjustment="8.0000000000" />
+<kerning left="\" right="h" hadjustment="6.0000000000" />
 <kerning left="m" right="?" hadjustment="-6.0000000000" />
 <kerning left="L" right="O" hadjustment="-4.0000000000" />
-<kerning left="T" right="\" hadjustment="8.0000000000" />
-<kerning left="\" right="i" hadjustment="8.0000000000" />
+<kerning left="T" right="\" hadjustment="6.0000000000" />
+<kerning left="\" right="i" hadjustment="6.0000000000" />
 <kerning left="\" right="j" hadjustment="14.0000000000" />
 <kerning left="m" right="A" hadjustment="-2.0000000000" />
-<kerning left="\" right="k" hadjustment="8.0000000000" />
+<kerning left="\" right="k" hadjustment="6.0000000000" />
 <kerning left="\" right="l" hadjustment="6.0000000000" />
 <kerning left="L" right="S" hadjustment="-1.0000000000" />
-<kerning left="\" right="m" hadjustment="8.0000000000" />
+<kerning left="\" right="m" hadjustment="6.0000000000" />
 <kerning left="L" right="T" hadjustment="-14.0000000000" />
 <kerning left="T" right="a" hadjustment="-10.0000000000" />
-<kerning left="\" right="n" hadjustment="8.0000000000" />
+<kerning left="\" right="n" hadjustment="6.0000000000" />
 <kerning left="\" right="o" hadjustment="4.0000000000" />
 <kerning left="L" right="V" hadjustment="-11.0000000000" />
 <kerning left="T" right="c" hadjustment="-12.0000000000" />
 <kerning left="4" right="/" hadjustment="5.0000000000" />
 <kerning left="+" right="divis" hadjustment="6.0000000000" />
-<kerning left="\" right="p" hadjustment="10.0000000000" />
+<kerning left="\" right="p" hadjustment="8.0000000000" />
 <kerning left="u" right="T" hadjustment="-8.0000000000" />
 <kerning left="L" right="W" hadjustment="-8.0000000000" />
 <kerning left="T" right="d" hadjustment="-15.0000000000" />
-<kerning left="\" right="q" hadjustment="5.0000000000" />
+<kerning left="\" right="q" hadjustment="4.0000000000" />
 <kerning left="T" right="e" hadjustment="-12.0000000000" />
-<kerning left="\" right="r" hadjustment="8.0000000000" />
+<kerning left="\" right="r" hadjustment="6.0000000000" />
 <kerning left="u" right="V" hadjustment="-4.0000000000" />
 <kerning left="L" right="Y" hadjustment="-14.0000000000" />
-<kerning left="\" right="s" hadjustment="8.0000000000" />
+<kerning left="\" right="s" hadjustment="6.0000000000" />
 <kerning left="T" right="g" hadjustment="-10.0000000000" />
-<kerning left="\" right="t" hadjustment="3.0000000000" />
+<kerning left="\" right="t" hadjustment="4.0000000000" />
 <kerning left="\" right="u" hadjustment="3.0000000000" />
 <kerning left="e" right="?" hadjustment="-6.0000000000" />
 <kerning left="u" right="Y" hadjustment="-10.0000000000" />
 <kerning left="T" right="i" hadjustment="-2.0000000000" />
 <kerning left="\" right="v" hadjustment="2.0000000000" />
-<kerning left="L" right="\" hadjustment="-4.0000000000" />
+<kerning left="L" right="\" hadjustment="-8.0000000000" />
 <kerning left="\" right="w" hadjustment="2.0000000000" />
 <kerning left="e" right="A" hadjustment="-2.0000000000" />
-<kerning left="\" right="x" hadjustment="8.0000000000" />
+<kerning left="\" right="x" hadjustment="6.0000000000" />
 <kerning left="\" right="y" hadjustment="2.0000000000" />
+<kerning left="u" right="\" hadjustment="-1.0000000000" />
 <kerning left="T" right="m" hadjustment="-10.0000000000" />
 <kerning left="," right="," hadjustment="4.0000000000" />
-<kerning left="\" right="z" hadjustment="8.0000000000" />
+<kerning left="\" right="z" hadjustment="6.0000000000" />
 <kerning left="T" right="n" hadjustment="-10.0000000000" />
 <kerning left="quote" right="/" hadjustment="-6.0000000000" />
 <kerning left="T" right="o" hadjustment="-12.0000000000" />
@@ -2066,11 +2098,12 @@
 <kerning left="u" right="g" hadjustment="1.0000000000" />
 <kerning left="T" right="w" hadjustment="-8.0000000000" />
 <kerning left="T" right="y" hadjustment="-9.0000000000" />
+<kerning left="m" right="\" hadjustment="-4.0000000000" />
 <kerning left="," right="9" hadjustment="-4.0000000000" />
 <kerning left="L" right="o" hadjustment="-4.0000000000" />
 <kerning left="e" right="T" hadjustment="-12.0000000000" />
 <kerning left="e" right="V" hadjustment="-8.0000000000" />
-<kerning left="M" right="/" hadjustment="8.0000000000" />
+<kerning left="M" right="/" hadjustment="6.0000000000" />
 <kerning left="," right="?" hadjustment="-10.0000000000" />
 <kerning left="e" right="W" hadjustment="-5.0000000000" />
 <kerning left="L" right="u" hadjustment="-4.0000000000" />
@@ -2078,13 +2111,14 @@
 <kerning left="," right="A" hadjustment="2.0000000000" />
 <kerning left="e" right="Y" hadjustment="-12.0000000000" />
 <kerning left="L" right="v" hadjustment="-6.0000000000" />
-<kerning left="v" right="/" hadjustment="0.0000000000" />
+<kerning left="v" right="/" hadjustment="2.0000000000" />
 <kerning left="L" right="w" hadjustment="-4.0000000000" />
 <kerning left="U" right="A" hadjustment="-4.0000000000" />
 <kerning left="L" right="y" hadjustment="-2.0000000000" />
+<kerning left="e" right="\" hadjustment="-2.0000000000" />
 <kerning left="e" right="`" hadjustment="-8.0000000000" />
-<kerning left="E" right="/" hadjustment="8.0000000000" />
-<kerning left="n" right="/" hadjustment="8.0000000000" />
+<kerning left="E" right="/" hadjustment="6.0000000000" />
+<kerning left="n" right="/" hadjustment="6.0000000000" />
 <kerning left="v" right="A" hadjustment="-6.0000000000" />
 <kerning left="," right="T" hadjustment="-10.0000000000" />
 <kerning left="=" right="+" hadjustment="6.0000000000" />
@@ -2101,7 +2135,7 @@
 <kerning left="f" right="1" hadjustment="2.0000000000" />
 <kerning left="f" right="2" hadjustment="-1.0000000000" />
 <kerning left="n" right="?" hadjustment="-6.0000000000" />
-<kerning left="U" right="\" hadjustment="8.0000000000" />
+<kerning left="U" right="\" hadjustment="6.0000000000" />
 <kerning left="e" right="x" hadjustment="-2.0000000000" />
 <kerning left="n" right="A" hadjustment="-2.0000000000" />
 <kerning left="f" right="8" hadjustment="-1.0000000000" />
@@ -2114,8 +2148,9 @@
 <kerning left="5" right="4" hadjustment="1.0000000000" />
 <kerning left="v" right="Y" hadjustment="-8.0000000000" />
 <kerning left="f" right="?" hadjustment="2.0000000000" />
-<kerning left="M" right="\" hadjustment="8.0000000000" />
+<kerning left="M" right="\" hadjustment="6.0000000000" />
 <kerning left="U" right="l" hadjustment="2.0000000000" />
+<kerning left="v" right="\" hadjustment="2.0000000000" />
 <kerning left="," right="p" hadjustment="2.0000000000" />
 <kerning left="V" right="+" hadjustment="-6.0000000000" />
 <kerning left="V" right="," hadjustment="-10.0000000000" />
@@ -2124,11 +2159,12 @@
 <kerning left="v" right="a" hadjustment="-2.0000000000" />
 <kerning left="V" right="." hadjustment="-10.0000000000" />
 <kerning left="v" right="c" hadjustment="-1.0000000000" />
-<kerning left="V" right="/" hadjustment="-4.0000000000" />
+<kerning left="V" right="/" hadjustment="-8.0000000000" />
 <kerning left="V" right="0" hadjustment="-1.0000000000" />
 <kerning left="v" right="d" hadjustment="-1.0000000000" />
 <kerning left="v" right="e" hadjustment="-1.0000000000" />
-<kerning left="E" right="\" hadjustment="8.0000000000" />
+<kerning left="E" right="\" hadjustment="6.0000000000" />
+<kerning left="n" right="\" hadjustment="-2.0000000000" />
 <kerning left="=" right="T" hadjustment="-14.0000000000" />
 <kerning left="=" right="V" hadjustment="-6.0000000000" />
 <kerning left="E" right="c" hadjustment="-2.0000000000" />
@@ -2139,12 +2175,12 @@
 <kerning left="V" right=";" hadjustment="-5.0000000000" />
 <kerning left="=" right="Y" hadjustment="-10.0000000000" />
 <kerning left="E" right="f" hadjustment="-2.0000000000" />
-<kerning left="N" right="/" hadjustment="8.0000000000" />
+<kerning left="N" right="/" hadjustment="6.0000000000" />
 <kerning left="v" right="q" hadjustment="-1.0000000000" />
 <kerning left="V" right="=" hadjustment="-6.0000000000" />
 <kerning left="w" right="/" hadjustment="0.0000000000" />
 <kerning left="V" right="A" hadjustment="-12.0000000000" />
-<kerning left="f" right="\" hadjustment="12.0000000000" />
+<kerning left="f" right="\" hadjustment="10.0000000000" />
 <kerning left="V" right="C" hadjustment="-2.0000000000" />
 <kerning left="E" right="o" hadjustment="-2.0000000000" />
 <kerning left="V" right="F" hadjustment="-1.0000000000" />
@@ -2156,7 +2192,7 @@
 <kerning left="f" right="c" hadjustment="-1.0000000000" />
 <kerning left="E" right="s" hadjustment="-1.0000000000" />
 <kerning left="V" right="I" hadjustment="0.0000000000" />
-<kerning left="F" right="/" hadjustment="0.0000000000" />
+<kerning left="F" right="/" hadjustment="-1.0000000000" />
 <kerning left="E" right="t" hadjustment="-1.0000000000" />
 <kerning left="V" right="J" hadjustment="-12.0000000000" />
 <kerning left="E" right="u" hadjustment="-1.0000000000" />
@@ -2179,12 +2215,12 @@
 <kerning left="V" right="X" hadjustment="2.0000000000" />
 <kerning left="V" right="Y" hadjustment="4.0000000000" />
 <kerning left="F" right="?" hadjustment="4.0000000000" />
-<kerning left="g" right="/" hadjustment="8.0000000000" />
+<kerning left="g" right="/" hadjustment="4.0000000000" />
 <kerning left="f" right="t" hadjustment="1.0000000000" />
 <kerning left="divis" right="=" hadjustment="6.0000000000" />
 <kerning left="F" right="A" hadjustment="-10.0000000000" />
 <kerning left="o" right="?" hadjustment="-6.0000000000" />
-<kerning left="V" right="\" hadjustment="8.0000000000" />
+<kerning left="V" right="\" hadjustment="6.0000000000" />
 <kerning left="o" right="A" hadjustment="-4.0000000000" />
 <kerning left="V" right="a" hadjustment="-6.0000000000" />
 <kerning left="V" right="c" hadjustment="-8.0000000000" />
@@ -2201,7 +2237,7 @@
 <kerning left="F" right="O" hadjustment="-2.0000000000" />
 <kerning left="w" right="Y" hadjustment="-8.0000000000" />
 <kerning left="V" right="i" hadjustment="-4.0000000000" />
-<kerning left="N" right="\" hadjustment="8.0000000000" />
+<kerning left="N" right="\" hadjustment="6.0000000000" />
 <kerning left="6" right="7" hadjustment="-3.0000000000" />
 <kerning left="V" right="m" hadjustment="-6.0000000000" />
 <kerning left="." right="," hadjustment="4.0000000000" />
@@ -2227,13 +2263,13 @@
 <kerning left="F" right="Y" hadjustment="4.0000000000" />
 <kerning left="divis" right="V" hadjustment="-6.0000000000" />
 <kerning left="V" right="s" hadjustment="-6.0000000000" />
-<kerning left="W" right="/" hadjustment="-3.0000000000" />
+<kerning left="W" right="/" hadjustment="-6.0000000000" />
 <kerning left="o" right="W" hadjustment="-5.0000000000" />
 <kerning left="divis" right="W" hadjustment="-4.0000000000" />
 <kerning left="o" right="X" hadjustment="-6.0000000000" />
 <kerning left="V" right="u" hadjustment="-4.0000000000" />
 <kerning left="divis" right="X" hadjustment="-6.0000000000" />
 <kerning left="o" right="Y" hadjustment="-12.0000000000" />
-<kerning left="F" right="\" hadjustment="8.0000000000" />
+<kerning left="F" right="\" hadjustment="10.0000000000" />
 <kerning left="divis" right="Y" hadjustment="-10.0000000000" />
 </font>
