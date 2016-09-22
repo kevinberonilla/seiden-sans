@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Seiden Sans';
     src: url('seiden-sans.eot');
-    src: url('seiden-sans.eot?#iefix') format('embedded-opentype'), url('seiden-sans.woff') format('woff'), url('seiden-sans.ttf') format('truetype');
+    src: url('seiden-sans.eot?#iefix') format('embedded-opentype'), url('seiden-sans.woff2') format('woff2'), url('seiden-sans.woff') format('woff'), url('seiden-sans.ttf') format('truetype'), url('seiden-sans.svg#Seiden_Sans') format('svg');
     font-weight: normal;
     font-style: normal;
 }
