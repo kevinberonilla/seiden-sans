@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg>
 <metadata>
-Created by FontForge 20120731 at Fri Sep 23 15:36:33 2016
+Created by FontForge 20120731 at Tue Oct 11 02:15:00 2016
  By ,,,
 Kevin Beronilla 2016. Info: www.kevinberonilla.com
 </metadata>
@@ -27,6 +27,8 @@ Kevin Beronilla 2016. Info: www.kevinberonilla.com
 d="M51 102h307v533h-307v-533zM0 686h410v-635h-410v635z" />
     <glyph glyph-name=".notdef" horiz-adv-x="543" 
 d="M51 102h307v533h-307v-533zM0 686h410v-635h-410v635z" />
+    <glyph glyph-name=".null" horiz-adv-x="0" 
+ />
     <glyph glyph-name=".null" horiz-adv-x="0" 
  />
     <glyph glyph-name="nonmarkingreturn" unicode="&#xd;" horiz-adv-x="0" 
@@ -659,7 +661,8 @@ d="M51 102h307v533h-307v-533zM0 686h410v-635h-410v635z" />
     <hkern u1="O" u2="t" k="10" />
     <hkern u1="O" u2="`" k="20" />
     <hkern u1="O" u2="X" k="41" />
-    <hkern u1="O" u2="V" k="20" />
+    <hkern u1="O" u2="W" k="10" />
+    <hkern u1="O" u2="V" k="31" />
     <hkern u1="O" u2="T" k="41" />
     <hkern u1="O" u2="J" k="20" />
     <hkern u1="O" u2="A" k="41" />
@@ -717,7 +720,7 @@ d="M51 102h307v533h-307v-533zM0 686h410v-635h-410v635z" />
     <hkern u1="S" u2="&#x2f;" k="-41" />
     <hkern u1="T" u2="&#x2014;" k="143" />
     <hkern u1="T" u2="&#x2013;" k="143" />
-    <hkern u1="T" u2="y" k="92" />
+    <hkern u1="T" u2="y" k="102" />
     <hkern u1="T" u2="x" k="143" />
     <hkern u1="T" u2="w" k="123" />
     <hkern u1="T" u2="v" k="123" />
@@ -730,6 +733,7 @@ d="M51 102h307v533h-307v-533zM0 686h410v-635h-410v635z" />
     <hkern u1="T" u2="n" k="164" />
     <hkern u1="T" u2="m" k="164" />
     <hkern u1="T" u2="i" k="20" />
+    <hkern u1="T" u2="h" k="10" />
     <hkern u1="T" u2="g" k="164" />
     <hkern u1="T" u2="f" k="51" />
     <hkern u1="T" u2="e" k="164" />
@@ -776,7 +780,7 @@ d="M51 102h307v533h-307v-533zM0 686h410v-635h-410v635z" />
     <hkern u1="V" u2="W" k="-41" />
     <hkern u1="V" u2="V" k="-41" />
     <hkern u1="V" u2="Q" k="20" />
-    <hkern u1="V" u2="O" k="20" />
+    <hkern u1="V" u2="O" k="31" />
     <hkern u1="V" u2="J" k="123" />
     <hkern u1="V" u2="G" k="31" />
     <hkern u1="V" u2="F" k="10" />
@@ -815,6 +819,7 @@ d="M51 102h307v533h-307v-533zM0 686h410v-635h-410v635z" />
     <hkern u1="W" u2="\" k="-61" />
     <hkern u1="W" u2="X" k="-20" />
     <hkern u1="W" u2="V" k="-41" />
+    <hkern u1="W" u2="O" k="10" />
     <hkern u1="W" u2="J" k="82" />
     <hkern u1="W" u2="G" k="10" />
     <hkern u1="W" u2="A" k="92" />
@@ -853,6 +858,7 @@ d="M51 102h307v533h-307v-533zM0 686h410v-635h-410v635z" />
     <hkern u1="Y" u2="w" k="82" />
     <hkern u1="Y" u2="v" k="82" />
     <hkern u1="Y" u2="u" k="123" />
+    <hkern u1="Y" u2="t" k="20" />
     <hkern u1="Y" u2="s" k="82" />
     <hkern u1="Y" u2="r" k="123" />
     <hkern u1="Y" u2="q" k="143" />
@@ -978,6 +984,8 @@ d="M51 102h307v533h-307v-533zM0 686h410v-635h-410v635z" />
     <hkern u1="b" u2="&#x37;" k="31" />
     <hkern u1="b" u2="&#x35;" k="10" />
     <hkern u1="b" u2="&#x2f;" k="-20" />
+    <hkern u1="c" u2="w" k="10" />
+    <hkern u1="c" u2="v" k="10" />
     <hkern u1="c" u2="u" k="10" />
     <hkern u1="c" u2="q" k="10" />
     <hkern u1="c" u2="o" k="10" />
@@ -997,6 +1005,8 @@ d="M51 102h307v533h-307v-533zM0 686h410v-635h-410v635z" />
     <hkern u1="d" u2="\" k="-51" />
     <hkern u1="d" u2="&#x2f;" k="-61" />
     <hkern u1="e" u2="x" k="20" />
+    <hkern u1="e" u2="w" k="10" />
+    <hkern u1="e" u2="v" k="20" />
     <hkern u1="e" u2="`" k="82" />
     <hkern u1="e" u2="\" k="20" />
     <hkern u1="e" u2="Y" k="164" />
@@ -1033,6 +1043,7 @@ d="M51 102h307v533h-307v-533zM0 686h410v-635h-410v635z" />
     <hkern u1="g" u2="&#x3a;" k="-20" />
     <hkern u1="g" u2="&#x2f;" k="-41" />
     <hkern u1="g" u2="&#x2c;" k="-20" />
+    <hkern u1="h" u2="y" k="31" />
     <hkern u1="h" u2="\" k="10" />
     <hkern u1="h" u2="Y" k="123" />
     <hkern u1="h" u2="T" k="123" />
@@ -1063,7 +1074,6 @@ d="M51 102h307v533h-307v-533zM0 686h410v-635h-410v635z" />
     <hkern u1="l" u2="&#x7c;" k="-20" />
     <hkern u1="l" u2="y" k="10" />
     <hkern u1="l" u2="p" k="-10" />
-    <hkern u1="l" u2="o" k="-10" />
     <hkern u1="l" u2="a" k="-20" />
     <hkern u1="l" u2="\" k="-61" />
     <hkern u1="l" u2="Y" k="41" />
@@ -1087,6 +1097,8 @@ d="M51 102h307v533h-307v-533zM0 686h410v-635h-410v635z" />
     <hkern u1="n" u2="A" k="20" />
     <hkern u1="n" u2="&#x3f;" k="61" />
     <hkern u1="n" u2="&#x2f;" k="-61" />
+    <hkern u1="o" u2="w" k="10" />
+    <hkern u1="o" u2="v" k="20" />
     <hkern u1="o" u2="u" k="10" />
     <hkern u1="o" u2="`" k="82" />
     <hkern u1="o" u2="\" k="61" />
@@ -1098,6 +1110,7 @@ d="M51 102h307v533h-307v-533zM0 686h410v-635h-410v635z" />
     <hkern u1="o" u2="A" k="41" />
     <hkern u1="o" u2="&#x3f;" k="61" />
     <hkern u1="o" u2="&#x2f;" k="-41" />
+    <hkern u1="p" u2="y" k="20" />
     <hkern u1="p" u2="t" k="-10" />
     <hkern u1="p" u2="a" k="-10" />
     <hkern u1="p" u2="`" k="123" />
@@ -1119,6 +1132,7 @@ d="M51 102h307v533h-307v-533zM0 686h410v-635h-410v635z" />
     <hkern u1="r" u2="&#x2014;" k="20" />
     <hkern u1="r" u2="&#x2013;" k="20" />
     <hkern u1="r" u2="y" k="-61" />
+    <hkern u1="r" u2="v" k="-41" />
     <hkern u1="r" u2="u" k="-20" />
     <hkern u1="r" u2="t" k="-31" />
     <hkern u1="r" u2="p" k="-20" />
@@ -1149,9 +1163,21 @@ d="M51 102h307v533h-307v-533zM0 686h410v-635h-410v635z" />
     <hkern u1="s" u2="T" k="123" />
     <hkern u1="s" u2="&#x3f;" k="41" />
     <hkern u1="s" u2="&#x2f;" k="-61" />
+    <hkern u1="t" u2="y" k="-20" />
     <hkern u1="t" u2="t" k="-20" />
     <hkern u1="t" u2="a" k="-31" />
     <hkern u1="t" u2="\" k="-61" />
+    <hkern u1="t" u2="Y" k="41" />
+    <hkern u1="t" u2="R" k="-10" />
+    <hkern u1="t" u2="P" k="-10" />
+    <hkern u1="t" u2="N" k="-10" />
+    <hkern u1="t" u2="M" k="-10" />
+    <hkern u1="t" u2="L" k="-10" />
+    <hkern u1="t" u2="I" k="-10" />
+    <hkern u1="t" u2="H" k="-10" />
+    <hkern u1="t" u2="E" k="-10" />
+    <hkern u1="t" u2="D" k="-10" />
+    <hkern u1="t" u2="B" k="-10" />
     <hkern u1="t" u2="&#x30;" k="-20" />
     <hkern u1="t" u2="&#x2f;" k="-61" />
     <hkern u1="u" u2="r" k="-10" />
@@ -1166,10 +1192,10 @@ d="M51 102h307v533h-307v-533zM0 686h410v-635h-410v635z" />
     <hkern u1="u" u2="A" k="20" />
     <hkern u1="u" u2="&#x2f;" k="-61" />
     <hkern u1="v" u2="q" k="10" />
-    <hkern u1="v" u2="o" k="10" />
-    <hkern u1="v" u2="e" k="10" />
+    <hkern u1="v" u2="o" k="20" />
+    <hkern u1="v" u2="e" k="20" />
     <hkern u1="v" u2="d" k="10" />
-    <hkern u1="v" u2="c" k="10" />
+    <hkern u1="v" u2="c" k="20" />
     <hkern u1="v" u2="a" k="20" />
     <hkern u1="v" u2="\" k="-20" />
     <hkern u1="v" u2="Y" k="82" />
@@ -1177,6 +1203,9 @@ d="M51 102h307v533h-307v-533zM0 686h410v-635h-410v635z" />
     <hkern u1="v" u2="T" k="123" />
     <hkern u1="v" u2="A" k="61" />
     <hkern u1="v" u2="&#x2f;" k="-20" />
+    <hkern u1="w" u2="o" k="10" />
+    <hkern u1="w" u2="e" k="10" />
+    <hkern u1="w" u2="c" k="10" />
     <hkern u1="w" u2="Y" k="82" />
     <hkern u1="w" u2="X" k="61" />
     <hkern u1="w" u2="T" k="113" />
