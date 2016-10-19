@@ -1,5 +1,5 @@
 @font-face {
-    font-family: "Seiden_Sans_Bold";
+    font-family: "Seiden Sans";
     src: url("SeidenSans-Bold.eot");
     src: url("SeidenSans-Bold.eot?#iefix") format("embedded-opentype"),
          url("SeidenSans-Bold.woff2") format("woff2"),
@@ -7,5 +7,5 @@
          url("SeidenSans-Bold.ttf") format("ttf"),
          url("SeidenSans-Bold.svg#Seiden_Sans_Bold") format("svg");
     font-style: normal;
-    font-weight: demi;
+    font-weight: 700;
 }
