@@ -12,7 +12,6 @@ gulp.task('fontgen', function() {
 gulp.task('fontCleanup', function() {
     return gulp.src('dist/web/*.css')
         .pipe(replace('font-weight: 300', 'font-weight: 400'))
-        .pipe(replace('font-weight: demi', 'font-weight: 700'))
         .pipe(replace('font-family: "Seiden_Sans_Bold"', 'font-family: "Seiden Sans"'))
         .pipe(replace('font-family: "Seiden_Sans_Regular"', 'font-family: "Seiden Sans"'))
         .pipe(gulp.dest('dist/web'));
