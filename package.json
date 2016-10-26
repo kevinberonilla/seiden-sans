@@ -1,0 +1,25 @@
+{
+  "name": "seiden-sans",
+  "version": "1.0.0",
+  "description": "An open-source, sans serif typeface by Kevin Beronilla (created with BirdFont)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://kevinberonilla@github.com/kevinberonilla/seiden-sans.git"
+  },
+  "author": "",
+  "license": "SIL Open Font License",
+  "bugs": {
+    "url": "https://github.com/kevinberonilla/seiden-sans/issues"
+  },
+  "homepage": "https://github.com/kevinberonilla/seiden-sans#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-fontgen": "^0.2.5",
+    "gulp-replace": "^0.5.4",
+    "run-sequence": "^1.2.2"
+  }
+}
