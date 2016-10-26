@@ -1,6 +1,7 @@
 var gulp = require('gulp'),
     fontgen = require('gulp-fontgen'),
-    replace = require('gulp-replace');
+    replace = require('gulp-replace'),
+    runSequence = require('run-sequence');
  
 gulp.task('fontgen', function() {
     return gulp.src('dist/print/*.ttf')
@@ -22,4 +23,6 @@ gulp.task('watch', function() {
     gulp.watch('dist/web/*.css', ['fontCleanup']);
 });
 
-gulp.task('default', ['fontgen', 'fontCleanup', 'watch']);
+gulp.task('default', function() {
+    runSequence('fontgen', ['fontCleanup', 'watch']);
+});
