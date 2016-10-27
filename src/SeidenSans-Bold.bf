@@ -1043,7 +1043,7 @@
 	<selected id="0"/>
 	<glyph id="0" left="-7.8145161290323131" right="33.586284305110894">
 		<layer name= "Layer" visible="true">
-			<path data="B -3.7145161290,9.0000000000 M -1.8145161290,9.2000000000 C 6.2854838710,10.2000000000 14.3854838710,18.7000000000 14.4854838710,35.5000000000 C 14.5854838710,47.5000000000 9.4854838710,61.0000000000 -1.9145161290,62.5000000000 M -3.8145161290,62.7000000000 M -1.9145161290,77.8000000000 M -0.0145161290,77.6000000000 C 20.4854838710,75.0000000000 29.6854838710,53.9000000000 29.5854838710,35.5000000000 C 29.5854838710,25.8000000000 27.0854838710,16.5000000000 22.6854838710,9.3000000000 C 17.2854838710,0.5000000000 9.3854838710,-4.7000000000 -0.1145161290,-5.8000000000 M -2.0145161290,-6.0000000000 M -3.7145161290,9.0000000000" />
+			<path data="B -3.7145161290,8.8600000000 M -1.8145161290,9.0600000000 C 6.2854838710,10.0600000000 14.3854838710,18.5600000000 14.4854838710,35.3600000000 C 14.5854838710,47.3600000000 9.4854838710,60.8600000000 -1.9145161290,62.3600000000 M -3.8145161290,62.5600000000 M -1.9145161290,77.6600000000 M -0.0145161290,77.4600000000 C 20.4854838710,74.8600000000 29.6854838710,53.7600000000 29.5854838710,35.3600000000 C 29.5854838710,25.6600000000 27.0854838710,16.3600000000 22.6854838710,9.1600000000 C 17.2854838710,0.3600000000 9.3854838710,-4.8400000000 -0.1145161290,-5.9400000000 M -2.0145161290,-6.1400000000 M -3.7145161290,8.8600000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -1079,7 +1079,7 @@
 	<selected id="0"/>
 	<glyph id="0" left="-22.368421052631561" right="22.831578947368442">
 		<layer name= "Layer" visible="true">
-			<path data="B -18.3684210526,36.4000000000 M 18.8315789474,36.4000000000 M 18.8315789474,22.0000000000 M -18.3684210526,22.0000000000 M -18.3684210526,36.4000000000" />
+			<path data="B -18.3684210526,35.9000000000 M 18.8315789474,35.9000000000 M 18.8315789474,21.5000000000 M -18.3684210526,21.5000000000 M -18.3684210526,35.9000000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -1855,27 +1855,27 @@
 
 <collection unicode="U+2010">
 	<selected id="0"/>
-	<glyph id="0" left="-26.600000000000001" right="18.600000000000001">
+	<glyph id="0" left="-22.368421052631561" right="22.831578947368442">
 		<layer name= "Layer" visible="true">
-			<path data="B -22.6000000000,36.4000000000 M 14.6000000000,36.4000000000 M 14.6000000000,22.0000000000 M -22.6000000000,22.0000000000 M -22.6000000000,36.4000000000" />
+			<path data="B -18.3684210526,35.9000000000 M 18.8315789474,35.9000000000 M 18.8315789474,21.5000000000 M -18.3684210526,21.5000000000 M -18.3684210526,35.9000000000" />
 		</layer>
 	</glyph>
 </collection>
 
 <collection unicode="U+2011">
 	<selected id="0"/>
-	<glyph id="0" left="-26.600000000000001" right="18.600000000000001">
+	<glyph id="0" left="-22.368421052631561" right="22.831578947368442">
 		<layer name= "Layer" visible="true">
-			<path data="B -22.6000000000,36.4000000000 M 14.6000000000,36.4000000000 M 14.6000000000,22.0000000000 M -22.6000000000,22.0000000000 M -22.6000000000,36.4000000000" />
+			<path data="B -18.3684210526,35.9000000000 M 18.8315789474,35.9000000000 M 18.8315789474,21.5000000000 M -18.3684210526,21.5000000000 M -18.3684210526,35.9000000000" />
 		</layer>
 	</glyph>
 </collection>
 
 <collection unicode="U+2012">
 	<selected id="0"/>
-	<glyph id="0" left="-26.600000000000001" right="18.600000000000001">
+	<glyph id="0" left="-22.368421052631561" right="22.831578947368442">
 		<layer name= "Layer" visible="true">
-			<path data="B -22.6000000000,36.4000000000 M 14.6000000000,36.4000000000 M 14.6000000000,22.0000000000 M -22.6000000000,22.0000000000 M -22.6000000000,36.4000000000" />
+			<path data="B -18.3684210526,35.9000000000 M 18.8315789474,35.9000000000 M 18.8315789474,21.5000000000 M -18.3684210526,21.5000000000 M -18.3684210526,35.9000000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -2066,9 +2066,9 @@
 <kerning left="/" right="5" hadjustment="4.0000000000" />
 <kerning left="W" right="v" hadjustment="-4.0000000000" />
 <kerning left="W" right="w" hadjustment="-4.0000000000" />
+<kerning left="P" right="'" hadjustment="1.0000000000" />
 <kerning left="/" right="7" hadjustment="6.0000000000" />
 <kerning left="W" right="x" hadjustment="-4.0000000000" />
-<kerning left="P" right="'" hadjustment="1.0000000000" />
 <kerning left="p" right="\" hadjustment="-4.0000000000" />
 <kerning left="W" right="y" hadjustment="-1.0000000000" />
 <kerning left="/" right="9" hadjustment="1.0000000000" />
@@ -2083,19 +2083,19 @@
 <kerning left="divis" right="–" hadjustment="6.0000000000" />
 <kerning left="T" right="—" hadjustment="-14.0000000000" />
 <kerning left="P" right="." hadjustment="-12.0000000000" />
-<kerning left="divis" right="—" hadjustment="6.0000000000" />
 <kerning left="'" right="1" hadjustment="2.0000000000" />
+<kerning left="divis" right="—" hadjustment="6.0000000000" />
 <kerning left="P" right="/" hadjustment="-2.0000000000" />
 <kerning left="O" right="t" hadjustment="-1.0000000000" />
-<kerning left="/" right="A" hadjustment="-10.0000000000" />
 <kerning left="'" right="4" hadjustment="-2.0000000000" />
+<kerning left="/" right="A" hadjustment="-10.0000000000" />
 <kerning left="h" right="Y" hadjustment="-12.0000000000" />
 <kerning left="/" right="B" hadjustment="6.0000000000" />
-<kerning left="/" right="D" hadjustment="6.0000000000" />
 <kerning left="'" right="7" hadjustment="2.0000000000" />
+<kerning left="/" right="D" hadjustment="6.0000000000" />
 <kerning left="h" right="\" hadjustment="-1.0000000000" />
-<kerning left="/" right="E" hadjustment="6.0000000000" />
 <kerning left="'" right="8" hadjustment="-2.0000000000" />
+<kerning left="/" right="E" hadjustment="6.0000000000" />
 <kerning left="/" right="F" hadjustment="6.0000000000" />
 <kerning left="P" right="–" hadjustment="-2.0000000000" />
 <kerning left="/" right="H" hadjustment="6.0000000000" />
@@ -2150,21 +2150,21 @@
 <kerning left="q" right="?" hadjustment="0.0000000000" />
 <kerning left="X" right="\" hadjustment="6.0000000000" />
 <kerning left="Z" right="–" hadjustment="-2.0000000000" />
+<kerning left="'" right="T" hadjustment="4.0000000000" />
 <kerning left="/" right="a" hadjustment="0.0000000000" />
 <kerning left="i" right="4" hadjustment="-1.0000000000" />
-<kerning left="'" right="T" hadjustment="4.0000000000" />
 <kerning left="Z" right="—" hadjustment="-2.0000000000" />
 <kerning left="/" right="b" hadjustment="6.0000000000" />
 <kerning left="h" right="y" hadjustment="-3.0000000000" />
-<kerning left="/" right="c" hadjustment="-2.0000000000" />
 <kerning left="'" right="V" hadjustment="2.0000000000" />
+<kerning left="/" right="c" hadjustment="-2.0000000000" />
+<kerning left="'" right="W" hadjustment="2.0000000000" />
 <kerning left="X" right="a" hadjustment="-2.0000000000" />
 <kerning left="/" right="d" hadjustment="-2.0000000000" />
-<kerning left="'" right="W" hadjustment="2.0000000000" />
 <kerning left="/" right="e" hadjustment="-2.0000000000" />
+<kerning left="'" right="Y" hadjustment="4.0000000000" />
 <kerning left="/" right="f" hadjustment="4.0000000000" />
 <kerning left="8" right="/" hadjustment="6.0000000000" />
-<kerning left="'" right="Y" hadjustment="4.0000000000" />
 <kerning left="y" right="T" hadjustment="-8.0000000000" />
 <kerning left="/" right="g" hadjustment="-6.0000000000" />
 <kerning left="i" right=":" hadjustment="1.0000000000" />
@@ -2190,9 +2190,9 @@
 <kerning left="V" right="—" hadjustment="-6.0000000000" />
 <kerning left="a" right="3" hadjustment="-1.0000000000" />
 <kerning left="/" right="m" hadjustment="-1.0000000000" />
+<kerning left="Y" right="'" hadjustment="4.0000000000" />
 <kerning left="/" right="n" hadjustment="-1.0000000000" />
 <kerning left="8" right="7" hadjustment="-2.0000000000" />
-<kerning left="Y" right="'" hadjustment="4.0000000000" />
 <kerning left="y" right="\" hadjustment="1.0000000000" />
 <kerning left="/" right="o" hadjustment="-6.0000000000" />
 <kerning left="Y" right=")" hadjustment="2.0000000000" />
@@ -2364,9 +2364,9 @@
 <kerning left="b" right="?" hadjustment="-8.0000000000" />
 <kerning left="1" right="6" hadjustment="2.0000000000" />
 <kerning left="Y" right="w" hadjustment="-8.0000000000" />
+<kerning left="R" right="'" hadjustment="-2.0000000000" />
 <kerning left="1" right="7" hadjustment="2.0000000000" />
 <kerning left="Y" right="x" hadjustment="-10.0000000000" />
-<kerning left="R" right="'" hadjustment="-2.0000000000" />
 <kerning left="r" right="\" hadjustment="1.0000000000" />
 <kerning left="1" right="8" hadjustment="2.0000000000" />
 <kerning left="Y" right="y" hadjustment="-6.0000000000" />
@@ -2409,8 +2409,8 @@
 <kerning left="A" right="n" hadjustment="-2.0000000000" />
 <kerning left="r" right="y" hadjustment="6.0000000000" />
 <kerning left="I" right="|" hadjustment="8.0000000000" />
-<kerning left="A" right="o" hadjustment="-4.0000000000" />
 <kerning left="F" right="quote" hadjustment="5.0000000000" />
+<kerning left="A" right="o" hadjustment="-4.0000000000" />
 <kerning left="A" right="q" hadjustment="-4.0000000000" />
 <kerning left="k" right="," hadjustment="6.0000000000" />
 <kerning left="B" right="/" hadjustment="4.0000000000" />
