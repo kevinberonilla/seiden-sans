@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Seiden Sans";
+    src: url("SeidenSans-Light.eot");
+    src: url("SeidenSans-Light.eot?#iefix") format("embedded-opentype"),
+         url("SeidenSans-Light.woff2") format("woff2"),
+         url("SeidenSans-Light.woff") format("woff"),
+         url("SeidenSans-Light.ttf") format("ttf"),
+         url("SeidenSans-Light.svg#Seiden_Sans_Light") format("svg");
+    font-style: normal;
+    font-weight: 300;
+}

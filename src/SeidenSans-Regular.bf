@@ -423,6 +423,10 @@
 <grid width="2.0000"/>
 <grid width="1.0000"/>
 <grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
 <grid width="1.0000"/>
 <grid width="2.0000"/>
 <grid width="4.0000"/>
@@ -445,6 +449,11 @@
 <grid width="4.0000"/>
 <grid width="1.0000"/>
 <grid width="2.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
 <grid width="4.0000"/>
 <grid width="4.0000"/>
 <grid width="1.0000"/>
@@ -458,6 +467,12 @@
 <grid width="2.0000"/>
 <grid width="4.0000"/>
 <grid width="1.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
 <grid width="2.0000"/>
 <grid width="1.0000"/>
 <grid width="2.0000"/>
@@ -1699,6 +1714,24 @@
 	<glyph id="0" left="-43.5" right="43.399999999999999">
 		<layer name= "Layer" visible="true">
 			<path data="B -39.5000000000,34.0000000000 M 39.4000000000,34.0000000000 M 39.4000000000,22.0000000000 M -39.5000000000,22.0000000000 M -39.5000000000,34.0000000000" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2015">
+	<selected id="0"/>
+	<glyph id="0" left="-43.5" right="43.399999999999999">
+		<layer name= "Layer" visible="true">
+			<path data="B -39.5000000000,34.0000000000 M 39.4000000000,34.0000000000 M 39.4000000000,22.0000000000 M -39.5000000000,22.0000000000 M -39.5000000000,34.0000000000" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection unicode="U+2018">
+	<selected id="0"/>
+	<glyph id="0" left="-34.006933989481034" right="-8.6999999999999993">
+		<layer name= "Layer" visible="true">
+			<path data="B -16.0000000000,47.0000000000 M -28.0000000000,47.0000000000 M -28.0000000000,48.2000000000 C -28.1000000000,59.5000000000 -27.2000000000,71.9000000000 -20.0000000000,77.4000000000 M -12.7000000000,67.9000000000 C -14.0000000000,66.9000000000 -16.1000000000,63.1000000000 -16.0000000000,48.3000000000 M -16.0000000000,47.0000000000" />
 		</layer>
 	</glyph>
 </collection>
