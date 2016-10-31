@@ -20,6 +20,7 @@
     "gulp": "^3.9.1",
     "gulp-fontgen": "^0.2.5",
     "gulp-replace": "^0.5.4",
+    "merge-stream": "^1.0.0",
     "run-sequence": "^1.2.2"
   }
 }
