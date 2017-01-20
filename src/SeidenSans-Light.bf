@@ -257,6 +257,21 @@
 <grid width="2.0000"/>
 <grid width="4.0000"/>
 <grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
 <grid width="1.0000"/>
 <grid width="2.0000"/>
 <grid width="4.0000"/>
@@ -2547,7 +2562,7 @@
 <kerning left="Q" right="?" hadjustment="-2.0000000000" />
 <kerning left="r" right="1" hadjustment="1.0000000000" />
 <kerning left="a" right="\" hadjustment="0.0000000000" />
-<kerning left="i" right="l" hadjustment="0.0000000000" />
+<kerning left="i" right="l" hadjustment="1.0000000000" />
 <kerning left="0" right="V" hadjustment="-2.0000000000" />
 <kerning left="–" right="–" hadjustment="6.0000000000" />
 <kerning left="A" right="," hadjustment="2.0000000000" />
@@ -2935,8 +2950,9 @@
 <kerning left="C" right="l" hadjustment="-2.0000000000" />
 <kerning left="\" right="O" hadjustment="0.0000000000" />
 <kerning left="d" right="\" hadjustment="5.0000000000" />
+<kerning left="l" right="i" hadjustment="2.0000000000" />
 <kerning left="\" right="P" hadjustment="6.0000000000" />
-<kerning left="l" right="l" hadjustment="0.0000000000" />
+<kerning left="l" right="l" hadjustment="1.0000000000" />
 <kerning left="C" right="o" hadjustment="-1.0000000000" />
 <kerning left="\" right="R" hadjustment="6.0000000000" />
 <kerning left="t" right="y" hadjustment="2.0000000000" />
