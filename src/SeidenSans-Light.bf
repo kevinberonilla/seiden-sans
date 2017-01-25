@@ -2562,7 +2562,7 @@
 <kerning left="Q" right="?" hadjustment="-2.0000000000" />
 <kerning left="r" right="1" hadjustment="1.0000000000" />
 <kerning left="a" right="\" hadjustment="0.0000000000" />
-<kerning left="i" right="l" hadjustment="1.0000000000" />
+<kerning left="i" right="l" hadjustment="2.0000000000" />
 <kerning left="0" right="V" hadjustment="-2.0000000000" />
 <kerning left="–" right="–" hadjustment="6.0000000000" />
 <kerning left="A" right="," hadjustment="2.0000000000" />
@@ -3097,6 +3097,7 @@
 <kerning left="U" right="A" hadjustment="-4.0000000000" />
 <kerning left="L" right="y" hadjustment="-2.0000000000" />
 <kerning left="e" right="\" hadjustment="-2.0000000000" />
+<kerning left="m" right="i" hadjustment="1.0000000000" />
 <kerning left="e" right="`" hadjustment="-8.0000000000" />
 <kerning left="E" right="/" hadjustment="6.0000000000" />
 <kerning left="W" right="quote" hadjustment="2.0000000000" />
