@@ -359,6 +359,21 @@
 <grid width="2.0000"/>
 <grid width="4.0000"/>
 <grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="1.0000"/>
+<grid width="2.0000"/>
+<grid width="4.0000"/>
+<grid width="1.0000"/>
 <grid width="1.0000"/>
 <grid width="2.0000"/>
 <grid width="4.0000"/>
@@ -1862,7 +1877,7 @@
 
 <collection unicode="U+69">
 	<selected id="0"/>
-	<glyph id="0" left="-10.990909090899999" right="17.709090909100002">
+	<glyph id="0" left="-11.990909090900001" right="18.709090909099999">
 		<layer name= "Layer" visible="true">
 			<path data="B -4.2909090909,0.0000000000 M -4.2909090909,55.2000000000 M 10.9090909091,55.2000000000 M 10.9090909091,0.0000000000 M -4.2909090909,0.0000000000" />
 			<path data="B 3.3090909091,61.0000000000 C -1.3909090909,61.0000000000 -5.1909090909,64.8000000000 -5.1909090909,69.5000000000 C -5.1909090909,74.2000000000 -1.2909090909,78.0000000000 3.4090909091,78.0000000000 C 8.1090909091,78.0000000000 11.9090909091,74.2000000000 11.9090909091,69.5000000000 C 11.9090909091,64.8000000000 8.0090909091,61.0000000000 3.3090909091,61.0000000000" />
@@ -2516,7 +2531,7 @@
 <kerning left="Q" right="?" hadjustment="-2.0000000000" />
 <kerning left="r" right="1" hadjustment="1.0000000000" />
 <kerning left="a" right="\" hadjustment="0.0000000000" />
-<kerning left="i" right="l" hadjustment="2.0000000000" />
+<kerning left="i" right="l" hadjustment="1.0000000000" />
 <kerning left="0" right="V" hadjustment="-2.0000000000" />
 <kerning left="–" right="–" hadjustment="6.0000000000" />
 <kerning left="A" right="," hadjustment="2.0000000000" />
@@ -2904,7 +2919,7 @@
 <kerning left="C" right="l" hadjustment="-2.0000000000" />
 <kerning left="\" right="O" hadjustment="0.0000000000" />
 <kerning left="d" right="\" hadjustment="5.0000000000" />
-<kerning left="l" right="i" hadjustment="2.0000000000" />
+<kerning left="l" right="i" hadjustment="1.0000000000" />
 <kerning left="\" right="P" hadjustment="6.0000000000" />
 <kerning left="l" right="l" hadjustment="1.0000000000" />
 <kerning left="C" right="o" hadjustment="-1.0000000000" />
